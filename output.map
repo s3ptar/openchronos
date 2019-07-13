@@ -1,0 +1,2720 @@
+Archive member included because of file (symbol)
+
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fixunsdfsi.o)
+                              modules/accelerometer.o (__mspabi_fixdul)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_addsub_df.o)
+                              modules/accelerometer.o (__mspabi_addd)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_mul_df.o)
+                              modules/accelerometer.o (__mspabi_mpyd)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ge_df.o)
+                              /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fixunsdfsi.o) (__gedf2)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_df_to_si.o)
+                              /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fixunsdfsi.o) (__mspabi_fixdli)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_thenan_df.o)
+                              /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_addsub_df.o) (__thenan_df)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_usi_to_df.o)
+                              modules/accelerometer.o (__mspabi_fltuld)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divHI.o)
+                              drivers/display.o (__mspabi_divi)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divSI.o)
+                              drivers/vti_ps.o (__mspabi_divli)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2mul.o)
+                              drivers/rtc_dst.o (__mspabi_mpyi)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(slli.o)
+                              drivers/rtca.o (__mspabi_slli)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(srai.o)
+                              drivers/temperature.o (__mspabi_sral_12)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(srli.o)
+                              drivers/buzzer.o (__mspabi_srli)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_muldi3.o)
+                              /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_mul_df.o) (__mspabi_mpyll)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_lshrdi3.o)
+                              /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_addsub_df.o) (__lshrdi3)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ashldi3.o)
+                              /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_addsub_df.o) (__ashldi3)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clzsi2.o)
+                              /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_usi_to_df.o) (__clzsi2)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_pack_df.o)
+                              /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_addsub_df.o) (__pack_d)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_unpack_df.o)
+                              /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_addsub_df.o) (__unpack_d)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fpcmp_parts_df.o)
+                              /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ge_df.o) (__fpcmp_parts_d)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clz.o)
+                              /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clzsi2.o) (__clz_tab)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-malloc.o)
+                              menu.o (malloc)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memcpy.o)
+                              drivers/display.o (memcpy)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memset.o)
+                              modules/hashutils.o (memset)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-freer.o)
+                              /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-malloc.o) (_free_r)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-mallocr.o)
+                              /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-malloc.o) (_malloc_r)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-sbrkr.o)
+                              /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-impure.o)
+                              /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-malloc.o) (_impure_ptr)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-reent.o)
+                              /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-sbrkr.o) (errno)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_bss.o)
+                              /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/crtbegin.o (__crt0_init_bss)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_movedata.o)
+                              /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/crtbegin.o (__crt0_movedata)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_main.o)
+                              /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/crt0.o (__crt0_call_init_then_main)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(sbrk.o)
+                              /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-sbrkr.o) (sbrk)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(write.o)
+                              /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(sbrk.o) (write)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(cio.o)
+                              /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(write.o) (__CIOBUF__)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-abort.o)
+                              /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(sbrk.o) (abort)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memmove.o)
+                              /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_movedata.o) (memmove)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+                              /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-abort.o) (raise)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signalr.o)
+                              /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o) (_kill_r)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(nosyscalls.o)
+                              /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-abort.o) (_exit)
+/projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-errno.o)
+                              /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(nosyscalls.o) (__errno)
+
+Allocating common symbols
+Common symbol       size              file
+
+rtc_dst_dates       0x4               drivers/rtc_dst.o
+sha                 0x14              modules/hashutils.o
+errno               0x2               /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-reent.o)
+hashed_key          0x14              modules/hashutils.o
+ps_ok               0x1               drivers/vti_ps.o
+temperature         0x4               openchronos.o
+battery_info        0x4               openchronos.o
+tmp_key             0x40              modules/hashutils.o
+rtca_time           0xc               openchronos.o
+timer0_last_event   0x1               openchronos.o
+adc12_data_ready    0x1               drivers/adc12.o
+adc12_result        0x2               drivers/adc12.o
+ports_down_btns     0x2               drivers/ports.o
+sSwatch_conf        0x3               modules/stopwatch.o
+timer0_20hz_counter
+                    0x2               openchronos.o
+sSwatch_time        0x30              modules/stopwatch.o
+rtc_dst_state       0x1               drivers/rtc_dst.o
+sAccel              0xc               modules/accelerometer.o
+as_last_interrupt   0x1               openchronos.o
+rtca_last_event     0x1               openchronos.o
+ports_pressed_btns  0x2               drivers/ports.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/crt0.o
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/crt0.o
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/crt0.o
+ .debug_line    0x00000000       0xff /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/crt0.o
+ .debug_info    0x00000000       0xce /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/crt0.o
+ .debug_abbrev  0x00000000       0x12 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/crt0.o
+ .debug_aranges
+                0x00000000       0x30 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/crt0.o
+ .debug_ranges  0x00000000       0x28 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/crt0.o
+ .data          0x00000000        0x2 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/crtbegin.o
+ .text          0x00000000        0x0 boot.o
+ .data          0x00000000        0x0 boot.o
+ .bss           0x00000000        0x0 boot.o
+ .text          0x00000000        0x0 menu.o
+ .data          0x00000000        0x0 menu.o
+ .bss           0x00000000        0x0 menu.o
+ .text          0x00000000        0x0 messagebus.o
+ .data          0x00000000        0x0 messagebus.o
+ .bss           0x00000000        0x0 messagebus.o
+ .text          0x00000000        0x0 modinit.o
+ .data          0x00000000        0x0 modinit.o
+ .bss           0x00000000        0x0 modinit.o
+ .text          0x00000000        0x0 openchronos.o
+ .data          0x00000000        0x0 openchronos.o
+ .bss           0x00000000        0x0 openchronos.o
+ .text          0x00000000        0x0 drivers/adc12.o
+ .data          0x00000000        0x0 drivers/adc12.o
+ .bss           0x00000000        0x0 drivers/adc12.o
+ .text          0x00000000        0x0 drivers/battery.o
+ .data          0x00000000        0x0 drivers/battery.o
+ .bss           0x00000000        0x0 drivers/battery.o
+ .text          0x00000000        0x0 drivers/buzzer.o
+ .data          0x00000000        0x0 drivers/buzzer.o
+ .bss           0x00000000        0x0 drivers/buzzer.o
+ .text          0x00000000        0x0 drivers/display.o
+ .data          0x00000000        0x0 drivers/display.o
+ .bss           0x00000000        0x0 drivers/display.o
+ .text.start_blink
+                0x00000000        0x6 drivers/display.o
+ .text.stop_blink
+                0x00000000        0x6 drivers/display.o
+ .text.clear_blink_mem
+                0x00000000        0x6 drivers/display.o
+ .text          0x00000000        0x0 drivers/dsp.o
+ .data          0x00000000        0x0 drivers/dsp.o
+ .bss           0x00000000        0x0 drivers/dsp.o
+ .text.mult_scale16
+                0x00000000       0x24 drivers/dsp.o
+ .text.mult_scale15
+                0x00000000       0x28 drivers/dsp.o
+ .text          0x00000000        0x0 drivers/infomem.o
+ .data          0x00000000        0x0 drivers/infomem.o
+ .bss           0x00000000        0x0 drivers/infomem.o
+ .text          0x00000000        0x0 drivers/lpm.o
+ .data          0x00000000        0x0 drivers/lpm.o
+ .bss           0x00000000        0x0 drivers/lpm.o
+ .text          0x00000000        0x0 drivers/pmm.o
+ .data          0x00000000        0x0 drivers/pmm.o
+ .bss           0x00000000        0x0 drivers/pmm.o
+ .text          0x00000000        0x0 drivers/ports.o
+ .data          0x00000000        0x0 drivers/ports.o
+ .bss           0x00000000        0x0 drivers/ports.o
+ .text.ports_button_pressed_peek
+                0x00000000       0x3a drivers/ports.o
+ .text          0x00000000        0x0 drivers/radio.o
+ .data          0x00000000        0x0 drivers/radio.o
+ .bss           0x00000000        0x0 drivers/radio.o
+ .text.radio_sxoff
+                0x00000000       0x16 drivers/radio.o
+ .text.open_radio
+                0x00000000       0x12 drivers/radio.o
+ .text.close_radio
+                0x00000000       0x12 drivers/radio.o
+ .text          0x00000000        0x0 drivers/rf1a.o
+ .data          0x00000000        0x0 drivers/rf1a.o
+ .bss           0x00000000        0x0 drivers/rf1a.o
+ .text.ResetRadioCore
+                0x00000000       0x16 drivers/rf1a.o
+ .text.ReadBurstReg
+                0x00000000       0x4e drivers/rf1a.o
+ .text.WriteBurstReg
+                0x00000000       0x4c drivers/rf1a.o
+ .text.WritePATable
+                0x00000000       0x6a drivers/rf1a.o
+ .text          0x00000000        0x0 drivers/rtca.o
+ .data          0x00000000        0x0 drivers/rtca.o
+ .bss           0x00000000        0x0 drivers/rtca.o
+ .text          0x00000000        0x0 drivers/rtc_dst.o
+ .data          0x00000000        0x0 drivers/rtc_dst.o
+ .bss           0x00000000        0x0 drivers/rtc_dst.o
+ .text          0x00000000        0x0 drivers/temperature.o
+ .data          0x00000000        0x0 drivers/temperature.o
+ .bss           0x00000000        0x0 drivers/temperature.o
+ .text          0x00000000        0x0 drivers/timer.o
+ .data          0x00000000        0x0 drivers/timer.o
+ .bss           0x00000000        0x0 drivers/timer.o
+ .text.init_timer0_20hz
+                0x00000000        0x8 drivers/timer.o
+ .text.timer0_create_prog_timer
+                0x00000000       0x24 drivers/timer.o
+ .text.timer0_destroy_prog_timer
+                0x00000000        0x8 drivers/timer.o
+ .text          0x00000000        0x0 drivers/vti_as.o
+ .data          0x00000000        0x0 drivers/vti_as.o
+ .bss           0x00000000        0x0 drivers/vti_as.o
+ .text          0x00000000        0x0 drivers/vti_ps.o
+ .data          0x00000000        0x0 drivers/vti_ps.o
+ .bss           0x00000000        0x0 drivers/vti_ps.o
+ .text.twi_delay
+                0x00000000        0x4 drivers/vti_ps.o
+ .text.ps_start
+                0x00000000        0xe drivers/vti_ps.o
+ .text.ps_stop  0x00000000        0xc drivers/vti_ps.o
+ .text.ps_get_pa
+                0x00000000       0x7a drivers/vti_ps.o
+ .text.ps_get_temp
+                0x00000000       0x4c drivers/vti_ps.o
+ .text.init_pressure_table
+                0x00000000       0x12 drivers/vti_ps.o
+ .text.conv_altitude_to_fraction
+                0x00000000       0x52 drivers/vti_ps.o
+ .text.update_pressure_table
+                0x00000000       0x64 drivers/vti_ps.o
+ .text.conv_pa_to_altitude
+                0x00000000       0x46 drivers/vti_ps.o
+ .bss.hLast     0x00000000        0x2 drivers/vti_ps.o
+ .bss.pRef      0x00000000        0x2 drivers/vti_ps.o
+ .bss.pLast     0x00000000        0x2 drivers/vti_ps.o
+ .text          0x00000000        0x0 drivers/wdt.o
+ .data          0x00000000        0x0 drivers/wdt.o
+ .bss           0x00000000        0x0 drivers/wdt.o
+ .text          0x00000000        0x0 modules/accelerometer.o
+ .data          0x00000000        0x0 modules/accelerometer.o
+ .bss           0x00000000        0x0 modules/accelerometer.o
+ .text.acc_deactivated
+                0x00000000       0x30 modules/accelerometer.o
+ .text.star_long_pressed
+                0x00000000       0x38 modules/accelerometer.o
+ .text.down_btn
+                0x00000000        0x8 modules/accelerometer.o
+ .rodata        0x00000000       0x4d modules/accelerometer.o
+ .text.acc_activated
+                0x00000000       0xa2 modules/accelerometer.o
+ .text.is_acceleration_measurement
+                0x00000000       0x18 modules/accelerometer.o
+ .text.acceleration_value_is_positive
+                0x00000000        0xc modules/accelerometer.o
+ .text.convert_acceleration_value_to_mgrav
+                0x00000000       0x4a modules/accelerometer.o
+ .text.update_menu
+                0x00000000       0x9c modules/accelerometer.o
+ .text.num_pressed
+                0x00000000       0x14 modules/accelerometer.o
+ .text.up_btn   0x00000000       0x7e modules/accelerometer.o
+ .text.display_data
+                0x00000000      0x11c modules/accelerometer.o
+ .text.as_event
+                0x00000000       0xbc modules/accelerometer.o
+ .text.print_debug
+                0x00000000       0x48 modules/accelerometer.o
+ .text.mod_accelerometer_init
+                0x00000000       0x4e modules/accelerometer.o
+ .bss.submenu_state
+                0x00000000        0x1 modules/accelerometer.o
+ .data.smb      0x00000000        0x4 modules/accelerometer.o
+ .rodata.mgrav_per_bit
+                0x00000000        0xe modules/accelerometer.o
+ COMMON         0x00000000        0xc modules/accelerometer.o
+ .text          0x00000000        0x0 modules/alarm.o
+ .data          0x00000000        0x0 modules/alarm.o
+ .bss           0x00000000        0x0 modules/alarm.o
+ .text          0x00000000        0x0 modules/battery.o
+ .data          0x00000000        0x0 modules/battery.o
+ .bss           0x00000000        0x0 modules/battery.o
+ .text          0x00000000        0x0 modules/buzztest.o
+ .data          0x00000000        0x0 modules/buzztest.o
+ .bss           0x00000000        0x0 modules/buzztest.o
+ .text.deactivate
+                0x00000000        0xa modules/buzztest.o
+ .rodata        0x00000000        0xa modules/buzztest.o
+ .text.activate
+                0x00000000       0x12 modules/buzztest.o
+ .text.update   0x00000000       0x64 modules/buzztest.o
+ .text.down     0x00000000       0x38 modules/buzztest.o
+ .text.up       0x00000000       0x3a modules/buzztest.o
+ .text.mod_buzztest_init
+                0x00000000       0x34 modules/buzztest.o
+ .data.key      0x00000000        0x1 modules/buzztest.o
+ .bss.oct       0x00000000        0x1 modules/buzztest.o
+ .data.n        0x00000000        0x4 modules/buzztest.o
+ .text          0x00000000        0x0 modules/clock.o
+ .data          0x00000000        0x0 modules/clock.o
+ .bss           0x00000000        0x0 modules/clock.o
+ .text          0x00000000        0x0 modules/hashutils.o
+ .data          0x00000000        0x0 modules/hashutils.o
+ .bss           0x00000000        0x0 modules/hashutils.o
+ .text.sha1_transform
+                0x00000000      0x470 modules/hashutils.o
+ .text.sha1_init
+                0x00000000       0x52 modules/hashutils.o
+ .text.sha1_update
+                0x00000000       0xd8 modules/hashutils.o
+ .text.sha1_final
+                0x00000000      0x20c modules/hashutils.o
+ .text.hmac_sha1
+                0x00000000      0x120 modules/hashutils.o
+ COMMON         0x00000000       0x68 modules/hashutils.o
+ .text          0x00000000        0x0 modules/music.o
+ .data          0x00000000        0x0 modules/music.o
+ .bss           0x00000000        0x0 modules/music.o
+ .text.music_deactivate
+                0x00000000        0xa modules/music.o
+ .rodata        0x00000000        0x6 modules/music.o
+ .text.music_activate
+                0x00000000       0x12 modules/music.o
+ .text.num_press
+                0x00000000        0xa modules/music.o
+ .text.mod_music_init
+                0x00000000       0x32 modules/music.o
+ .data.smb      0x00000000       0xc8 modules/music.o
+ .text          0x00000000        0x0 modules/otp.o
+ .data          0x00000000        0x0 modules/otp.o
+ .bss           0x00000000        0x0 modules/otp.o
+ .text.otp_deactivated
+                0x00000000       0x2e modules/otp.o
+ .text.simple_mktime
+                0x00000000      0x11a modules/otp.o
+ .rodata        0x00000000        0xc modules/otp.o
+ .text.clock_event
+                0x00000000      0x1c2 modules/otp.o
+ .text.otp_activated
+                0x00000000       0x2a modules/otp.o
+ .text.otp_gen_next
+                0x00000000       0x1e modules/otp.o
+ .text.otp_gen_prev
+                0x00000000       0x1e modules/otp.o
+ .text.mod_otp_init
+                0x00000000       0x34 modules/otp.o
+ .rodata.indicator
+                0x00000000        0xc modules/otp.o
+ .bss.otp_result
+                0x00000000       0x14 modules/otp.o
+ .bss.otp_data  0x00000000        0x8 modules/otp.o
+ .bss.last_time
+                0x00000000        0x4 modules/otp.o
+ .bss.current_key_index
+                0x00000000        0x1 modules/otp.o
+ .rodata.otp_keys
+                0x00000000        0x6 modules/otp.o
+ .rodata.days   0x00000000       0x18 modules/otp.o
+ .text          0x00000000        0x0 modules/reset.o
+ .data          0x00000000        0x0 modules/reset.o
+ .bss           0x00000000        0x0 modules/reset.o
+ .text          0x00000000        0x0 modules/stopwatch.o
+ .data          0x00000000        0x0 modules/stopwatch.o
+ .bss           0x00000000        0x0 modules/stopwatch.o
+ .text          0x00000000        0x0 modules/temperature.o
+ .data          0x00000000        0x0 modules/temperature.o
+ .bss           0x00000000        0x0 modules/temperature.o
+ .text          0x00000000        0x0 modules/tide.o
+ .data          0x00000000        0x0 modules/tide.o
+ .bss           0x00000000        0x0 modules/tide.o
+ .text.editHHSelect
+                0x00000000       0x10 modules/tide.o
+ .text.editHHDeselect
+                0x00000000       0x10 modules/tide.o
+ .text.editMMSelect
+                0x00000000       0x10 modules/tide.o
+ .text.editMMDeselect
+                0x00000000       0x10 modules/tide.o
+ .rodata        0x00000000       0x22 modules/tide.o
+ .text.editHHSet
+                0x00000000       0x30 modules/tide.o
+ .text.editMMSet
+                0x00000000       0x30 modules/tide.o
+ .text.deactivate
+                0x00000000       0x12 modules/tide.o
+ .text.timeInMinutes
+                0x00000000       0x18 modules/tide.o
+ .text.timeNowInMinutes
+                0x00000000       0x28 modules/tide.o
+ .text.timeFromMinutes
+                0x00000000       0x32 modules/tide.o
+ .text.blinkCol
+                0x00000000       0x40 modules/tide.o
+ .text.longStarButton
+                0x00000000       0xa4 modules/tide.o
+ .text.drawScreen
+                0x00000000      0x256 modules/tide.o
+ .text.minuteTick
+                0x00000000       0x70 modules/tide.o
+ .text.endEditing
+                0x00000000       0x3e modules/tide.o
+ .text.buttonUp
+                0x00000000        0xc modules/tide.o
+ .text.buttonDown
+                0x00000000       0x2c modules/tide.o
+ .text.activate
+                0x00000000       0x1c modules/tide.o
+ .text.mod_tide_init
+                0x00000000       0x52 modules/tide.o
+ .data.editModeItems
+                0x00000000       0x12 modules/tide.o
+ .bss.enteredTimeOfNextLow
+                0x00000000        0x2 modules/tide.o
+ .bss.graphOffset
+                0x00000000        0x1 modules/tide.o
+ .rodata.graphs
+                0x00000000        0x8 modules/tide.o
+ .bss.activeDisplay
+                0x00000000        0x1 modules/tide.o
+ .bss.editModeActivated
+                0x00000000        0x1 modules/tide.o
+ .bss.moduleActivated
+                0x00000000        0x1 modules/tide.o
+ .bss.tide      0x00000000        0x2 modules/tide.o
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fixunsdfsi.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fixunsdfsi.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fixunsdfsi.o)
+ .text.__fixunsdfsi
+                0x00000000       0x56 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fixunsdfsi.o)
+ .debug_frame   0x00000000       0x3c /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fixunsdfsi.o)
+ .debug_info    0x00000000       0xd6 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fixunsdfsi.o)
+ .debug_abbrev  0x00000000       0x6c /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fixunsdfsi.o)
+ .debug_loc     0x00000000       0x2e /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fixunsdfsi.o)
+ .debug_aranges
+                0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fixunsdfsi.o)
+ .debug_ranges  0x00000000       0x10 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fixunsdfsi.o)
+ .debug_line    0x00000000       0x68 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fixunsdfsi.o)
+ .debug_str     0x00000000      0x26b /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fixunsdfsi.o)
+ .debug_line.text.__fixunsdfsi
+                0x00000000       0x29 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fixunsdfsi.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fixunsdfsi.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_addsub_df.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_addsub_df.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_addsub_df.o)
+ .text._fpadd_parts
+                0x00000000      0x5c4 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_addsub_df.o)
+ .text.__adddf3
+                0x00000000       0x62 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_addsub_df.o)
+ .text.__subdf3
+                0x00000000       0x66 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_addsub_df.o)
+ .debug_frame   0x00000000       0x88 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_addsub_df.o)
+ .debug_info    0x00000000      0x571 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_addsub_df.o)
+ .debug_abbrev  0x00000000      0x23c /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_addsub_df.o)
+ .debug_loc     0x00000000      0x3d4 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_addsub_df.o)
+ .debug_aranges
+                0x00000000       0x30 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_addsub_df.o)
+ .debug_ranges  0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_addsub_df.o)
+ .debug_line    0x00000000       0x66 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_addsub_df.o)
+ .debug_str     0x00000000      0x3ad /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_addsub_df.o)
+ .debug_line.text._fpadd_parts
+                0x00000000      0x13d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_addsub_df.o)
+ .debug_line.text.__adddf3
+                0x00000000       0x3b /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_addsub_df.o)
+ .debug_line.text.__subdf3
+                0x00000000       0x41 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_addsub_df.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_addsub_df.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_mul_df.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_mul_df.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_mul_df.o)
+ .text.__muldf3
+                0x00000000      0x4d4 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_mul_df.o)
+ .debug_frame   0x00000000       0x40 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_mul_df.o)
+ .debug_info    0x00000000      0x4c3 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_mul_df.o)
+ .debug_abbrev  0x00000000      0x222 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_mul_df.o)
+ .debug_loc     0x00000000      0x3c6 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_mul_df.o)
+ .debug_aranges
+                0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_mul_df.o)
+ .debug_ranges  0x00000000       0x10 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_mul_df.o)
+ .debug_line    0x00000000       0x66 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_mul_df.o)
+ .debug_str     0x00000000      0x378 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_mul_df.o)
+ .debug_line.text.__muldf3
+                0x00000000      0x164 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_mul_df.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_mul_df.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ge_df.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ge_df.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ge_df.o)
+ .text.__gedf2  0x00000000       0x74 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ge_df.o)
+ .debug_frame   0x00000000       0x34 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ge_df.o)
+ .debug_info    0x00000000      0x2f6 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ge_df.o)
+ .debug_abbrev  0x00000000      0x1a4 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ge_df.o)
+ .debug_loc     0x00000000       0x2e /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ge_df.o)
+ .debug_aranges
+                0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ge_df.o)
+ .debug_ranges  0x00000000       0x10 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ge_df.o)
+ .debug_line    0x00000000       0x66 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ge_df.o)
+ .debug_str     0x00000000      0x335 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ge_df.o)
+ .debug_line.text.__gedf2
+                0x00000000       0x4d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ge_df.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ge_df.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_df_to_si.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_df_to_si.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_df_to_si.o)
+ .text.__fixdfsi
+                0x00000000       0x9c /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_df_to_si.o)
+ .debug_frame   0x00000000       0x34 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_df_to_si.o)
+ .debug_info    0x00000000      0x2e0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_df_to_si.o)
+ .debug_abbrev  0x00000000      0x194 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_df_to_si.o)
+ .debug_loc     0x00000000       0x46 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_df_to_si.o)
+ .debug_aranges
+                0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_df_to_si.o)
+ .debug_ranges  0x00000000       0x10 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_df_to_si.o)
+ .debug_line    0x00000000       0x66 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_df_to_si.o)
+ .debug_str     0x00000000      0x338 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_df_to_si.o)
+ .debug_line.text.__fixdfsi
+                0x00000000       0x5f /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_df_to_si.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_df_to_si.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_thenan_df.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_thenan_df.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_thenan_df.o)
+ .rodata.__thenan_df
+                0x00000000        0xe /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_thenan_df.o)
+ .debug_info    0x00000000      0x15a /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_thenan_df.o)
+ .debug_abbrev  0x00000000       0xb6 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_thenan_df.o)
+ .debug_aranges
+                0x00000000       0x18 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_thenan_df.o)
+ .debug_line    0x00000000       0x66 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_thenan_df.o)
+ .debug_str     0x00000000      0x2c9 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_thenan_df.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_thenan_df.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_usi_to_df.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_usi_to_df.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_usi_to_df.o)
+ .text.__floatunsidf
+                0x00000000       0x68 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_usi_to_df.o)
+ .debug_frame   0x00000000       0x38 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_usi_to_df.o)
+ .debug_info    0x00000000      0x23d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_usi_to_df.o)
+ .debug_abbrev  0x00000000      0x19e /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_usi_to_df.o)
+ .debug_loc     0x00000000       0x51 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_usi_to_df.o)
+ .debug_aranges
+                0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_usi_to_df.o)
+ .debug_ranges  0x00000000       0x10 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_usi_to_df.o)
+ .debug_line    0x00000000       0x66 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_usi_to_df.o)
+ .debug_str     0x00000000      0x30c /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_usi_to_df.o)
+ .debug_line.text.__floatunsidf
+                0x00000000       0x55 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_usi_to_df.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_usi_to_df.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divHI.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divHI.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divHI.o)
+ .debug_frame   0x00000000       0x7c /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divHI.o)
+ .debug_info    0x00000000      0x250 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divHI.o)
+ .debug_abbrev  0x00000000       0xd2 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divHI.o)
+ .debug_loc     0x00000000      0x2af /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divHI.o)
+ .debug_aranges
+                0x00000000       0x40 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divHI.o)
+ .debug_ranges  0x00000000       0x30 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divHI.o)
+ .debug_line    0x00000000       0x7e /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divHI.o)
+ .debug_str     0x00000000      0x1f9 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divHI.o)
+ .debug_line.text.udivmodhi4
+                0x00000000       0x74 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divHI.o)
+ .debug_line.text.__divhi3
+                0x00000000       0x58 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divHI.o)
+ .debug_line.text.__modhi3
+                0x00000000       0x41 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divHI.o)
+ .debug_line.text.__udivhi3
+                0x00000000       0x1d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divHI.o)
+ .debug_line.text.__umodhi3
+                0x00000000       0x1d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divHI.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divHI.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divSI.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divSI.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divSI.o)
+ .text.__divsi3
+                0x00000000       0x7a /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divSI.o)
+ .text.__modsi3
+                0x00000000       0x58 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divSI.o)
+ .debug_frame   0x00000000       0xbc /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divSI.o)
+ .debug_info    0x00000000      0x266 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divSI.o)
+ .debug_abbrev  0x00000000       0xc3 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divSI.o)
+ .debug_loc     0x00000000      0x343 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divSI.o)
+ .debug_aranges
+                0x00000000       0x40 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divSI.o)
+ .debug_ranges  0x00000000       0x30 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divSI.o)
+ .debug_line    0x00000000       0x7e /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divSI.o)
+ .debug_str     0x00000000      0x1f9 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divSI.o)
+ .debug_line.text.udivmodsi4
+                0x00000000       0x74 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divSI.o)
+ .debug_line.text.__divsi3
+                0x00000000       0x58 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divSI.o)
+ .debug_line.text.__modsi3
+                0x00000000       0x41 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divSI.o)
+ .debug_line.text.__udivsi3
+                0x00000000       0x1d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divSI.o)
+ .debug_line.text.__umodsi3
+                0x00000000       0x1d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divSI.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divSI.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2mul.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2mul.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2mul.o)
+ .text.__mulqi3
+                0x00000000       0x34 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2mul.o)
+ .text.__mulsi3
+                0x00000000       0x4a /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2mul.o)
+ .debug_frame   0x00000000       0x58 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2mul.o)
+ .debug_info    0x00000000      0x14e /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2mul.o)
+ .debug_abbrev  0x00000000       0x7e /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2mul.o)
+ .debug_loc     0x00000000      0x1ca /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2mul.o)
+ .debug_aranges
+                0x00000000       0x30 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2mul.o)
+ .debug_ranges  0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2mul.o)
+ .debug_line    0x00000000       0x79 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2mul.o)
+ .debug_str     0x00000000      0x1c9 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2mul.o)
+ .debug_line.text.__mulhi3
+                0x00000000       0x58 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2mul.o)
+ .debug_line.text.__mulqi3
+                0x00000000       0x58 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2mul.o)
+ .debug_line.text.__mulsi3
+                0x00000000       0x58 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2mul.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2mul.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(slli.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(slli.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(srai.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(srai.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(srli.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(srli.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_muldi3.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_muldi3.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_muldi3.o)
+ .text.__muldi3
+                0x00000000      0x156 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_muldi3.o)
+ .debug_frame   0x00000000       0x40 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_muldi3.o)
+ .debug_info    0x00000000      0x226 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_muldi3.o)
+ .debug_abbrev  0x00000000      0x124 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_muldi3.o)
+ .debug_loc     0x00000000       0xd6 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_muldi3.o)
+ .debug_aranges
+                0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_muldi3.o)
+ .debug_ranges  0x00000000       0x10 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_muldi3.o)
+ .debug_line    0x00000000       0x68 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_muldi3.o)
+ .debug_str     0x00000000      0x2a5 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_muldi3.o)
+ .debug_line.text.__muldi3
+                0x00000000       0x55 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_muldi3.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_muldi3.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_lshrdi3.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_lshrdi3.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_lshrdi3.o)
+ .text.__lshrdi3
+                0x00000000       0x7a /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_lshrdi3.o)
+ .debug_frame   0x00000000       0x40 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_lshrdi3.o)
+ .debug_info    0x00000000      0x186 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_lshrdi3.o)
+ .debug_abbrev  0x00000000       0xfe /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_lshrdi3.o)
+ .debug_loc     0x00000000       0x53 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_lshrdi3.o)
+ .debug_aranges
+                0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_lshrdi3.o)
+ .debug_ranges  0x00000000       0x10 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_lshrdi3.o)
+ .debug_line    0x00000000       0x68 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_lshrdi3.o)
+ .debug_str     0x00000000      0x297 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_lshrdi3.o)
+ .debug_line.text.__lshrdi3
+                0x00000000       0x53 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_lshrdi3.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_lshrdi3.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ashldi3.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ashldi3.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ashldi3.o)
+ .text.__ashldi3
+                0x00000000       0x78 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ashldi3.o)
+ .debug_frame   0x00000000       0x40 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ashldi3.o)
+ .debug_info    0x00000000      0x186 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ashldi3.o)
+ .debug_abbrev  0x00000000       0xfe /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ashldi3.o)
+ .debug_loc     0x00000000       0x53 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ashldi3.o)
+ .debug_aranges
+                0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ashldi3.o)
+ .debug_ranges  0x00000000       0x10 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ashldi3.o)
+ .debug_line    0x00000000       0x68 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ashldi3.o)
+ .debug_str     0x00000000      0x297 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ashldi3.o)
+ .debug_line.text.__ashldi3
+                0x00000000       0x53 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ashldi3.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ashldi3.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clzsi2.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clzsi2.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clzsi2.o)
+ .text.__clzsi2
+                0x00000000       0x48 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clzsi2.o)
+ .debug_frame   0x00000000       0x30 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clzsi2.o)
+ .debug_info    0x00000000      0x128 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x00000000       0xc0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clzsi2.o)
+ .debug_loc     0x00000000       0x56 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clzsi2.o)
+ .debug_ranges  0x00000000       0x10 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clzsi2.o)
+ .debug_line    0x00000000       0xb2 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clzsi2.o)
+ .debug_str     0x00000000      0x277 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clzsi2.o)
+ .debug_line.text.__clzsi2
+                0x00000000       0x2f /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clzsi2.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clzsi2.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_pack_df.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_pack_df.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_pack_df.o)
+ .text.__pack_d
+                0x00000000      0x28c /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_pack_df.o)
+ .debug_frame   0x00000000       0x40 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_pack_df.o)
+ .debug_info    0x00000000      0x2d7 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_pack_df.o)
+ .debug_abbrev  0x00000000      0x195 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_pack_df.o)
+ .debug_loc     0x00000000      0x298 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_pack_df.o)
+ .debug_aranges
+                0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_pack_df.o)
+ .debug_ranges  0x00000000       0x10 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_pack_df.o)
+ .debug_line    0x00000000       0x66 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_pack_df.o)
+ .debug_str     0x00000000      0x32c /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_pack_df.o)
+ .debug_line.text.__pack_d
+                0x00000000      0x104 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_pack_df.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_pack_df.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_unpack_df.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_unpack_df.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_unpack_df.o)
+ .text.__unpack_d
+                0x00000000      0x164 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_unpack_df.o)
+ .debug_frame   0x00000000       0x40 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_unpack_df.o)
+ .debug_info    0x00000000      0x265 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_unpack_df.o)
+ .debug_abbrev  0x00000000      0x141 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_unpack_df.o)
+ .debug_loc     0x00000000      0x171 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_unpack_df.o)
+ .debug_aranges
+                0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_unpack_df.o)
+ .debug_ranges  0x00000000       0x10 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_unpack_df.o)
+ .debug_line    0x00000000       0x66 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_unpack_df.o)
+ .debug_str     0x00000000      0x30e /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_unpack_df.o)
+ .debug_line.text.__unpack_d
+                0x00000000       0xa7 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_unpack_df.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_unpack_df.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fpcmp_parts_df.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fpcmp_parts_df.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fpcmp_parts_df.o)
+ .text.__fpcmp_parts_d
+                0x00000000       0xde /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fpcmp_parts_df.o)
+ .debug_frame   0x00000000       0x34 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fpcmp_parts_df.o)
+ .debug_info    0x00000000      0x1ed /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fpcmp_parts_df.o)
+ .debug_abbrev  0x00000000      0x10e /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fpcmp_parts_df.o)
+ .debug_loc     0x00000000       0x42 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fpcmp_parts_df.o)
+ .debug_aranges
+                0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fpcmp_parts_df.o)
+ .debug_ranges  0x00000000       0x10 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fpcmp_parts_df.o)
+ .debug_line    0x00000000       0x66 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fpcmp_parts_df.o)
+ .debug_str     0x00000000      0x2ec /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fpcmp_parts_df.o)
+ .debug_line.text.__fpcmp_parts_d
+                0x00000000       0xa5 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fpcmp_parts_df.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fpcmp_parts_df.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clz.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clz.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clz.o)
+ .rodata.__clz_tab
+                0x00000000      0x100 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clz.o)
+ .debug_info    0x00000000       0xb2 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clz.o)
+ .debug_abbrev  0x00000000       0x5d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clz.o)
+ .debug_aranges
+                0x00000000       0x18 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clz.o)
+ .debug_line    0x00000000       0x68 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clz.o)
+ .debug_str     0x00000000      0x25a /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clz.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clz.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-malloc.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-malloc.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-malloc.o)
+ .debug_frame   0x00000000       0x34 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-malloc.o)
+ .debug_info    0x00000000      0x884 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-malloc.o)
+ .debug_abbrev  0x00000000      0x1a1 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-malloc.o)
+ .debug_loc     0x00000000       0x58 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-malloc.o)
+ .debug_aranges
+                0x00000000       0x28 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-malloc.o)
+ .debug_ranges  0x00000000       0x18 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-malloc.o)
+ .debug_line    0x00000000      0x17a /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-malloc.o)
+ .debug_str     0x00000000      0x57b /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-malloc.o)
+ .debug_line.text.malloc
+                0x00000000       0x1d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-malloc.o)
+ .debug_line.text.free
+                0x00000000       0x1d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-malloc.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-malloc.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memcpy.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memcpy.o)
+ .debug_frame   0x00000000       0x30 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memcpy.o)
+ .debug_info    0x00000000       0xfe /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memcpy.o)
+ .debug_abbrev  0x00000000       0xa2 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memcpy.o)
+ .debug_loc     0x00000000       0xcf /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memcpy.o)
+ .debug_ranges  0x00000000       0x10 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memcpy.o)
+ .debug_line    0x00000000      0x117 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memcpy.o)
+ .debug_str     0x00000000      0x1b2 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memcpy.o)
+ .debug_line.text.memcpy
+                0x00000000       0x22 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memcpy.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x24 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memset.o)
+ .debug_info    0x00000000       0xcf /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memset.o)
+ .debug_abbrev  0x00000000       0x8c /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memset.o)
+ .debug_loc     0x00000000       0x87 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memset.o)
+ .debug_aranges
+                0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memset.o)
+ .debug_ranges  0x00000000       0x10 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memset.o)
+ .debug_line    0x00000000      0x117 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memset.o)
+ .debug_str     0x00000000      0x19e /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memset.o)
+ .debug_line.text.memset
+                0x00000000       0x22 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memset.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-freer.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-freer.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-freer.o)
+ .debug_frame   0x00000000       0x34 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-freer.o)
+ .debug_info    0x00000000      0x8e1 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-freer.o)
+ .debug_abbrev  0x00000000      0x1bd /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-freer.o)
+ .debug_loc     0x00000000       0xe4 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-freer.o)
+ .debug_aranges
+                0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-freer.o)
+ .debug_ranges  0x00000000       0x10 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-freer.o)
+ .debug_line    0x00000000      0x136 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-freer.o)
+ .debug_str     0x00000000      0x5bf /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-freer.o)
+ .debug_line.text._free_r
+                0x00000000       0xcd /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-freer.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-freer.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-mallocr.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-mallocr.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00000000       0x34 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-mallocr.o)
+ .debug_info    0x00000000      0x9bd /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-mallocr.o)
+ .debug_abbrev  0x00000000      0x243 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-mallocr.o)
+ .debug_loc     0x00000000      0x219 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-mallocr.o)
+ .debug_aranges
+                0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-mallocr.o)
+ .debug_ranges  0x00000000       0x28 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-mallocr.o)
+ .debug_line    0x00000000      0x17f /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-mallocr.o)
+ .debug_str     0x00000000      0x5f4 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-mallocr.o)
+ .debug_line.text._malloc_r
+                0x00000000       0xdb /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-mallocr.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-mallocr.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000000       0x30 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-sbrkr.o)
+ .debug_info    0x00000000      0x863 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-sbrkr.o)
+ .debug_abbrev  0x00000000      0x1a7 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-sbrkr.o)
+ .debug_loc     0x00000000       0x3f /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-sbrkr.o)
+ .debug_aranges
+                0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-sbrkr.o)
+ .debug_ranges  0x00000000       0x10 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-sbrkr.o)
+ .debug_line    0x00000000      0x177 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-sbrkr.o)
+ .debug_str     0x00000000      0x55e /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-sbrkr.o)
+ .debug_line.text._sbrk_r
+                0x00000000       0x34 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-sbrkr.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x2 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-impure.o)
+ .debug_info    0x00000000      0x896 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-impure.o)
+ .debug_abbrev  0x00000000      0x13b /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-impure.o)
+ .debug_aranges
+                0x00000000       0x18 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-impure.o)
+ .debug_line    0x00000000      0x12f /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-impure.o)
+ .debug_str     0x00000000      0x5a7 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-impure.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-reent.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1c /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000      0x106 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-reent.o)
+ .debug_frame   0x00000000       0x50 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-reent.o)
+ .debug_info    0x00000000      0x9cb /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-reent.o)
+ .debug_abbrev  0x00000000      0x1f2 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-reent.o)
+ .debug_loc     0x00000000       0xa4 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-reent.o)
+ .debug_aranges
+                0x00000000       0x28 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-reent.o)
+ .debug_ranges  0x00000000       0x18 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-reent.o)
+ .debug_line    0x00000000      0x178 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-reent.o)
+ .debug_str     0x00000000      0x587 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-reent.o)
+ .debug_line.text.cleanup_glue
+                0x00000000       0x28 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-reent.o)
+ .debug_line.text._reclaim_reent
+                0x00000000       0xf8 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-reent.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-reent.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_bss.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_bss.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_bss.o)
+ .debug_line    0x00000000       0x84 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_bss.o)
+ .debug_info    0x00000000       0xd2 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_bss.o)
+ .debug_abbrev  0x00000000       0x14 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_bss.o)
+ .debug_aranges
+                0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_bss.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_movedata.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_movedata.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_movedata.o)
+ .debug_line    0x00000000       0x90 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_movedata.o)
+ .debug_info    0x00000000       0xd2 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_movedata.o)
+ .debug_abbrev  0x00000000       0x14 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_movedata.o)
+ .debug_aranges
+                0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_movedata.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_main.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_main.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_main.o)
+ .debug_line    0x00000000       0x7e /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_main.o)
+ .debug_info    0x00000000       0xd2 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_main.o)
+ .debug_abbrev  0x00000000       0x14 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_main.o)
+ .debug_aranges
+                0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_main.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(sbrk.o)
+ .debug_frame   0x00000000       0x2c /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(sbrk.o)
+ .debug_info    0x00000000      0x114 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(sbrk.o)
+ .debug_abbrev  0x00000000      0x100 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(sbrk.o)
+ .debug_loc     0x00000000       0x43 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(sbrk.o)
+ .debug_aranges
+                0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(sbrk.o)
+ .debug_line    0x00000000       0xa9 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(sbrk.o)
+ .debug_str     0x00000000      0x14e /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(write.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(write.o)
+ .debug_frame   0x00000000       0x3c /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(write.o)
+ .debug_info    0x00000000      0x1cd /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(write.o)
+ .debug_abbrev  0x00000000      0x127 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(write.o)
+ .debug_loc     0x00000000       0xb9 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(write.o)
+ .debug_aranges
+                0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(write.o)
+ .debug_ranges  0x00000000       0x30 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(write.o)
+ .debug_line    0x00000000       0xe1 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(write.o)
+ .debug_str     0x00000000      0x198 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(write.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(cio.o)
+ .debug_line    0x00000000       0x76 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(cio.o)
+ .debug_info    0x00000000       0xd1 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(cio.o)
+ .debug_abbrev  0x00000000       0x14 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(cio.o)
+ .debug_aranges
+                0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(cio.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-abort.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-abort.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-abort.o)
+ .debug_frame   0x00000000       0x24 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-abort.o)
+ .debug_info    0x00000000       0xd0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-abort.o)
+ .debug_abbrev  0x00000000       0x93 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-abort.o)
+ .debug_aranges
+                0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-abort.o)
+ .debug_ranges  0x00000000       0x10 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-abort.o)
+ .debug_line    0x00000000      0x109 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-abort.o)
+ .debug_str     0x00000000      0x1a1 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-abort.o)
+ .debug_line.text.abort
+                0x00000000       0x1c /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-abort.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-abort.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memmove.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memmove.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memmove.o)
+ .debug_frame   0x00000000       0x30 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memmove.o)
+ .debug_info    0x00000000       0xfe /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memmove.o)
+ .debug_abbrev  0x00000000       0x9a /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memmove.o)
+ .debug_loc     0x00000000      0x1ac /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memmove.o)
+ .debug_aranges
+                0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memmove.o)
+ .debug_ranges  0x00000000       0x10 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memmove.o)
+ .debug_line    0x00000000      0x118 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memmove.o)
+ .debug_str     0x00000000      0x1b9 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memmove.o)
+ .debug_line.text.memmove
+                0x00000000       0x40 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memmove.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memmove.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+ .text._init_signal_r
+                0x00000000       0x3e /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+ .text._signal_r
+                0x00000000       0x42 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+ .text.__sigtramp_r
+                0x00000000       0x62 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+ .text.signal   0x00000000       0x10 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+ .text._init_signal
+                0x00000000        0xa /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+ .text.__sigtramp
+                0x00000000        0xc /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+ .debug_frame   0x00000000       0xc8 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+ .debug_info    0x00000000      0xb1e /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+ .debug_abbrev  0x00000000      0x24a /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+ .debug_loc     0x00000000      0x2ca /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+ .debug_aranges
+                0x00000000       0x58 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+ .debug_ranges  0x00000000       0x48 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+ .debug_line    0x00000000      0x19d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+ .debug_str     0x00000000      0x5dd /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+ .debug_line.text._init_signal_r
+                0x00000000       0x41 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+ .debug_line.text._signal_r
+                0x00000000       0x51 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+ .debug_line.text._raise_r
+                0x00000000       0x71 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+ .debug_line.text.__sigtramp_r
+                0x00000000       0x6f /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+ .debug_line.text.raise
+                0x00000000       0x1d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+ .debug_line.text.signal
+                0x00000000       0x1d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+ .debug_line.text._init_signal
+                0x00000000       0x1d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+ .debug_line.text.__sigtramp
+                0x00000000       0x1d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signalr.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signalr.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signalr.o)
+ .debug_frame   0x00000000       0x40 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signalr.o)
+ .debug_info    0x00000000      0x8bf /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signalr.o)
+ .debug_abbrev  0x00000000      0x1a6 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signalr.o)
+ .debug_loc     0x00000000       0x8c /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signalr.o)
+ .debug_aranges
+                0x00000000       0x28 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signalr.o)
+ .debug_ranges  0x00000000       0x18 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signalr.o)
+ .debug_line    0x00000000      0x190 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signalr.o)
+ .debug_str     0x00000000      0x568 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signalr.o)
+ .debug_line.text._kill_r
+                0x00000000       0x34 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signalr.o)
+ .debug_line.text._getpid_r
+                0x00000000       0x1d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signalr.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signalr.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(nosyscalls.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(nosyscalls.o)
+ .debug_line    0x00000000       0xb3 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(nosyscalls.o)
+ .debug_info    0x00000000       0xd8 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(nosyscalls.o)
+ .debug_abbrev  0x00000000       0x14 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(nosyscalls.o)
+ .debug_aranges
+                0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(nosyscalls.o)
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-errno.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-errno.o)
+ .debug_frame   0x00000000       0x24 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-errno.o)
+ .debug_info    0x00000000      0x7f8 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-errno.o)
+ .debug_abbrev  0x00000000      0x139 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-errno.o)
+ .debug_aranges
+                0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-errno.o)
+ .debug_ranges  0x00000000       0x10 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-errno.o)
+ .debug_line    0x00000000      0x139 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-errno.o)
+ .debug_str     0x00000000      0x550 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-errno.o)
+ .debug_line.text.__errno
+                0x00000000       0x16 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-errno.o)
+ .debug_line_end
+                0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-errno.o)
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/crtend.o
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/crtend.o
+ .text          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/crtn.o
+ .data          0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/crtn.o
+ .bss           0x00000000        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/crtn.o
+ .debug_line    0x00000000       0x8d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/crtn.o
+ .debug_info    0x00000000       0xce /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/crtn.o
+ .debug_abbrev  0x00000000       0x12 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/crtn.o
+ .debug_aranges
+                0x00000000       0x28 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/crtn.o
+ .debug_ranges  0x00000000       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+SFR              0x00000000         0x00000010
+PERIPHERAL_8BIT  0x00000010         0x000000f0
+PERIPHERAL_16BIT 0x00000100         0x00000100
+RAM              0x00001c00         0x00000ffe
+INFOMEM          0x00001800         0x00000200
+INFOA            0x00001980         0x00000080
+INFOB            0x00001900         0x00000080
+INFOC            0x00001880         0x00000080
+INFOD            0x00001800         0x00000080
+ROM              0x00008000         0x00007f80         xr
+VECT1            0x0000ff80         0x00000002
+VECT2            0x0000ff82         0x00000002
+VECT3            0x0000ff84         0x00000002
+VECT4            0x0000ff86         0x00000002
+VECT5            0x0000ff88         0x00000002
+VECT6            0x0000ff8a         0x00000002
+VECT7            0x0000ff8c         0x00000002
+VECT8            0x0000ff8e         0x00000002
+VECT9            0x0000ff90         0x00000002
+VECT10           0x0000ff92         0x00000002
+VECT11           0x0000ff94         0x00000002
+VECT12           0x0000ff96         0x00000002
+VECT13           0x0000ff98         0x00000002
+VECT14           0x0000ff9a         0x00000002
+VECT15           0x0000ff9c         0x00000002
+VECT16           0x0000ff9e         0x00000002
+VECT17           0x0000ffa0         0x00000002
+VECT18           0x0000ffa2         0x00000002
+VECT19           0x0000ffa4         0x00000002
+VECT20           0x0000ffa6         0x00000002
+VECT21           0x0000ffa8         0x00000002
+VECT22           0x0000ffaa         0x00000002
+VECT23           0x0000ffac         0x00000002
+VECT24           0x0000ffae         0x00000002
+VECT25           0x0000ffb0         0x00000002
+VECT26           0x0000ffb2         0x00000002
+VECT27           0x0000ffb4         0x00000002
+VECT28           0x0000ffb6         0x00000002
+VECT29           0x0000ffb8         0x00000002
+VECT30           0x0000ffba         0x00000002
+VECT31           0x0000ffbc         0x00000002
+VECT32           0x0000ffbe         0x00000002
+VECT33           0x0000ffc0         0x00000002
+VECT34           0x0000ffc2         0x00000002
+VECT35           0x0000ffc4         0x00000002
+VECT36           0x0000ffc6         0x00000002
+VECT37           0x0000ffc8         0x00000002
+VECT38           0x0000ffca         0x00000002
+VECT39           0x0000ffcc         0x00000002
+VECT40           0x0000ffce         0x00000002
+VECT41           0x0000ffd0         0x00000002
+VECT42           0x0000ffd2         0x00000002
+VECT43           0x0000ffd4         0x00000002
+VECT44           0x0000ffd6         0x00000002
+VECT45           0x0000ffd8         0x00000002
+VECT46           0x0000ffda         0x00000002
+VECT47           0x0000ffdc         0x00000002
+VECT48           0x0000ffde         0x00000002
+VECT49           0x0000ffe0         0x00000002
+VECT50           0x0000ffe2         0x00000002
+VECT51           0x0000ffe4         0x00000002
+VECT52           0x0000ffe6         0x00000002
+VECT53           0x0000ffe8         0x00000002
+VECT54           0x0000ffea         0x00000002
+VECT55           0x0000ffec         0x00000002
+VECT56           0x0000ffee         0x00000002
+VECT57           0x0000fff0         0x00000002
+VECT58           0x0000fff2         0x00000002
+VECT59           0x0000fff4         0x00000002
+VECT60           0x0000fff6         0x00000002
+VECT61           0x0000fff8         0x00000002
+VECT62           0x0000fffa         0x00000002
+VECT63           0x0000fffc         0x00000002
+RESETVEC         0x0000fffe         0x00000002
+BSL              0x00001000         0x00000800
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/crt0.o
+LOAD /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/crtbegin.o
+LOAD boot.o
+LOAD menu.o
+LOAD messagebus.o
+LOAD modinit.o
+LOAD openchronos.o
+LOAD drivers/adc12.o
+LOAD drivers/battery.o
+LOAD drivers/buzzer.o
+LOAD drivers/display.o
+LOAD drivers/dsp.o
+LOAD drivers/infomem.o
+LOAD drivers/lpm.o
+LOAD drivers/pmm.o
+LOAD drivers/ports.o
+LOAD drivers/radio.o
+LOAD drivers/rf1a.o
+LOAD drivers/rtca.o
+LOAD drivers/rtc_dst.o
+LOAD drivers/temperature.o
+LOAD drivers/timer.o
+LOAD drivers/vti_as.o
+LOAD drivers/vti_ps.o
+LOAD drivers/wdt.o
+LOAD modules/accelerometer.o
+LOAD modules/alarm.o
+LOAD modules/battery.o
+LOAD modules/buzztest.o
+LOAD modules/clock.o
+LOAD modules/hashutils.o
+LOAD modules/music.o
+LOAD modules/otp.o
+LOAD modules/reset.o
+LOAD modules/stopwatch.o
+LOAD modules/temperature.o
+LOAD modules/tide.o
+LOAD /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a
+START GROUP
+LOAD /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a
+LOAD /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a
+LOAD /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a
+LOAD /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a
+END GROUP
+
+__interrupt_vector_1
+ *(__interrupt_vector_1)
+
+__interrupt_vector_2
+ *(__interrupt_vector_2)
+
+__interrupt_vector_3
+ *(__interrupt_vector_3)
+
+__interrupt_vector_4
+ *(__interrupt_vector_4)
+
+__interrupt_vector_5
+ *(__interrupt_vector_5)
+
+__interrupt_vector_6
+ *(__interrupt_vector_6)
+
+__interrupt_vector_7
+ *(__interrupt_vector_7)
+
+__interrupt_vector_8
+ *(__interrupt_vector_8)
+
+__interrupt_vector_9
+ *(__interrupt_vector_9)
+
+__interrupt_vector_10
+ *(__interrupt_vector_10)
+
+__interrupt_vector_11
+ *(__interrupt_vector_11)
+
+__interrupt_vector_12
+ *(__interrupt_vector_12)
+
+__interrupt_vector_13
+ *(__interrupt_vector_13)
+
+__interrupt_vector_14
+ *(__interrupt_vector_14)
+
+__interrupt_vector_15
+ *(__interrupt_vector_15)
+
+__interrupt_vector_16
+ *(__interrupt_vector_16)
+
+__interrupt_vector_17
+ *(__interrupt_vector_17)
+
+__interrupt_vector_18
+ *(__interrupt_vector_18)
+
+__interrupt_vector_19
+ *(__interrupt_vector_19)
+
+__interrupt_vector_20
+ *(__interrupt_vector_20)
+
+__interrupt_vector_21
+ *(__interrupt_vector_21)
+
+__interrupt_vector_22
+ *(__interrupt_vector_22)
+
+__interrupt_vector_23
+ *(__interrupt_vector_23)
+
+__interrupt_vector_24
+ *(__interrupt_vector_24)
+
+__interrupt_vector_25
+ *(__interrupt_vector_25)
+
+__interrupt_vector_26
+ *(__interrupt_vector_26)
+
+__interrupt_vector_27
+ *(__interrupt_vector_27)
+
+__interrupt_vector_28
+ *(__interrupt_vector_28)
+
+__interrupt_vector_29
+ *(__interrupt_vector_29)
+
+__interrupt_vector_30
+ *(__interrupt_vector_30)
+
+__interrupt_vector_31
+ *(__interrupt_vector_31)
+
+__interrupt_vector_32
+ *(__interrupt_vector_32)
+
+__interrupt_vector_33
+ *(__interrupt_vector_33)
+
+__interrupt_vector_34
+ *(__interrupt_vector_34)
+
+__interrupt_vector_35
+ *(__interrupt_vector_35)
+
+__interrupt_vector_36
+ *(__interrupt_vector_36)
+
+__interrupt_vector_37
+ *(__interrupt_vector_37)
+
+__interrupt_vector_38
+ *(__interrupt_vector_38)
+
+__interrupt_vector_39
+ *(__interrupt_vector_39)
+
+__interrupt_vector_40
+ *(__interrupt_vector_40)
+
+__interrupt_vector_41
+ *(__interrupt_vector_41)
+
+__interrupt_vector_42
+ *(__interrupt_vector_42)
+
+__interrupt_vector_43
+ *(__interrupt_vector_43)
+
+__interrupt_vector_44
+ *(__interrupt_vector_44)
+
+__interrupt_vector_45
+ *(__interrupt_vector_45)
+
+__interrupt_vector_46
+ *(__interrupt_vector_46)
+ *(__interrupt_vector_aes)
+
+__interrupt_vector_47
+                0x0000ffdc        0x2
+ *(__interrupt_vector_47)
+ __interrupt_vector_47
+                0x0000ffdc        0x2 drivers/rtca.o
+ *(__interrupt_vector_rtc)
+
+__interrupt_vector_48
+ *(__interrupt_vector_48)
+ *(__interrupt_vector_lcd_b)
+
+__interrupt_vector_49
+                0x0000ffe0        0x2
+ *(__interrupt_vector_49)
+ __interrupt_vector_49
+                0x0000ffe0        0x2 drivers/ports.o
+ *(__interrupt_vector_port2)
+
+__interrupt_vector_50
+ *(__interrupt_vector_50)
+ *(__interrupt_vector_port1)
+
+__interrupt_vector_51
+ *(__interrupt_vector_51)
+ *(__interrupt_vector_timer1_a1)
+
+__interrupt_vector_52
+ *(__interrupt_vector_52)
+ *(__interrupt_vector_timer1_a0)
+
+__interrupt_vector_53
+ *(__interrupt_vector_53)
+ *(__interrupt_vector_dma)
+
+__interrupt_vector_54
+                0x0000ffea        0x2
+ *(__interrupt_vector_54)
+ __interrupt_vector_54
+                0x0000ffea        0x2 drivers/radio.o
+ *(__interrupt_vector_cc1101)
+
+__interrupt_vector_55
+                0x0000ffec        0x2
+ *(__interrupt_vector_55)
+ __interrupt_vector_55
+                0x0000ffec        0x2 drivers/timer.o
+ *(__interrupt_vector_timer0_a1)
+
+__interrupt_vector_56
+                0x0000ffee        0x2
+ *(__interrupt_vector_56)
+ __interrupt_vector_56
+                0x0000ffee        0x2 drivers/timer.o
+ *(__interrupt_vector_timer0_a0)
+
+__interrupt_vector_57
+                0x0000fff0        0x2
+ *(__interrupt_vector_57)
+ __interrupt_vector_57
+                0x0000fff0        0x2 drivers/adc12.o
+ *(__interrupt_vector_adc12)
+
+__interrupt_vector_58
+ *(__interrupt_vector_58)
+ *(__interrupt_vector_usci_b0)
+
+__interrupt_vector_59
+ *(__interrupt_vector_59)
+ *(__interrupt_vector_usci_a0)
+
+__interrupt_vector_60
+                0x0000fff6        0x2
+ *(__interrupt_vector_60)
+ __interrupt_vector_60
+                0x0000fff6        0x2 boot.o
+ *(__interrupt_vector_wdt)
+
+__interrupt_vector_61
+ *(__interrupt_vector_61)
+ *(__interrupt_vector_comp_b)
+
+__interrupt_vector_62
+ *(__interrupt_vector_62)
+ *(__interrupt_vector_unmi)
+
+__interrupt_vector_63
+ *(__interrupt_vector_63)
+ *(__interrupt_vector_sysnmi)
+
+__reset_vector  0x0000fffe        0x2
+ *(__interrupt_vector_64)
+ *(__interrupt_vector_reset)
+ *(.resetvec)
+ .resetvec      0x0000fffe        0x2 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/crt0.o
+
+.rodata         0x00008000      0x198
+                0x00008000                . = ALIGN (0x2)
+ *(.plt)
+ *(.rodata .rodata.* .gnu.linkonce.r.* .const .const:*)
+ .rodata        0x00008000        0x5 menu.o
+ .rodata        0x00008005       0x1d drivers/display.o
+ .rodata.segments_bitmask
+                0x00008022       0x2a drivers/display.o
+ .rodata.segments_lcdmem
+                0x0000804c       0x54 drivers/display.o
+ .rodata.lcd_font
+                0x000080a0       0x30 drivers/display.o
+ .rodata        0x000080d0        0xf modules/alarm.o
+ .rodata        0x000080df        0x9 modules/battery.o
+ .rodata        0x000080e8       0x3a modules/clock.o
+ .rodata.rtca_dow_str
+                0x00008122        0xe modules/clock.o
+ .rodata        0x00008130        0x6 modules/reset.o
+ .rodata        0x00008136       0x11 modules/stopwatch.o
+ .rodata        0x00008147       0x22 modules/temperature.o
+ .rodata        0x00008169        0x2 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-impure.o)
+ .rodata        0x0000816b       0x1a /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(sbrk.o)
+ *(.rodata1)
+ *(.eh_frame_hdr)
+ *(.eh_frame)
+ *fill*         0x00008185        0x3 
+ .eh_frame      0x00008188        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/crtbegin.o
+ .eh_frame      0x00008188        0x4 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/crtend.o
+ *(.gcc_except_table)
+ *(.gcc_except_table.*)
+                0x0000818c                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x0000818c                PROVIDE (__preinit_array_end, .)
+                0x0000818c                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x0000818c                PROVIDE (__init_array_end, .)
+                0x0000818c                PROVIDE (__fini_array_start, .)
+ *(.fini_array)
+ *(SORT(.fini_array.*))
+                0x0000818c                PROVIDE (__fini_array_end, .)
+                0x0000818c        0x4 LONG 0x0
+ *crtbegin*.o(.ctors)
+ .ctors         0x00008190        0x2 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/crtbegin.o
+ *(EXCLUDE_FILE(*crtend*.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ .ctors         0x00008192        0x2 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/crtend.o
+ *crtbegin*.o(.dtors)
+ .dtors         0x00008194        0x2 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/crtbegin.o
+ *(EXCLUDE_FILE(*crtend*.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ .dtors         0x00008196        0x2 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/crtend.o
+                0x00008196                __DTOR_END__
+
+.text           0x00008198     0x34ce
+                0x00008198                . = ALIGN (0x2)
+                0x00008198                PROVIDE (_start, .)
+ *(SORT(.crt_*))
+ .crt_0000start
+                0x00008198        0x4 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/crt0.o
+                0x00008198                __crt0_start
+ .crt_0042      0x0000819c       0x78 boot.o
+ .crt_0100init_bss
+                0x00008214        0xe /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_bss.o)
+                0x00008214                __crt0_init_bss
+ .crt_0300movedata
+                0x00008222       0x14 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_movedata.o)
+                0x00008222                __crt0_movedata
+ .crt_0700call_init_then_main
+                0x00008236        0xa /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_main.o)
+                0x00008236                __crt0_call_init_then_main
+ .crt_0900main_init
+                0x00008240       0x36 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/crt0.o
+                0x00008240                _msp430_run_init_array
+                0x0000824c                _msp430_run_preinit_array
+                0x00008258                _msp430_run_fini_array
+ *(.lowtext .text .stub .text.* .gnu.linkonce.t.* .text:*)
+ .text          0x00008276       0xc6 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/crtbegin.o
+ .text.initialize_aclk
+                0x0000833c       0x1c boot.o
+                0x0000833c                initialize_aclk
+ .text.initialize_cpu_12mhz
+                0x00008358       0x40 boot.o
+                0x00008358                initialize_cpu_12mhz
+ .text.initialize_buttons
+                0x00008398       0x14 boot.o
+                0x00008398                initialize_buttons
+ .text.initialize_lcd
+                0x000083ac       0x2a boot.o
+                0x000083ac                initialize_lcd
+ .text.jump_to_rfbsl
+                0x000083d6        0xc boot.o
+                0x000083d6                jump_to_rfbsl
+ .text.WDT_ISR  0x000083e2        0x8 boot.o
+                0x000083e2                WDT_ISR
+ .text.menumode_select
+                0x000083ea       0x54 menu.o
+ .text.menumode_cancel
+                0x0000843e       0x10 menu.o
+                0x0000843e                menumode_cancel
+ .text.menu_timeout_poll
+                0x0000844e       0x18 menu.o
+                0x0000844e                menu_timeout_poll
+ .text.menu_check_buttons
+                0x00008466      0x2e6 menu.o
+                0x00008466                menu_check_buttons
+ .text.menu_add_entry
+                0x0000874c       0x86 menu.o
+                0x0000874c                menu_add_entry
+ .text.menu_editmode_start
+                0x000087d2       0x1e menu.o
+                0x000087d2                menu_editmode_start
+ .text.sys_messagebus_register
+                0x000087f0       0x3c messagebus.o
+                0x000087f0                sys_messagebus_register
+ .text.sys_messagebus_unregister
+                0x0000882c       0x50 messagebus.o
+                0x0000882c                sys_messagebus_unregister
+ .text.sys_messagebus_unregister_all
+                0x0000887c        0x8 messagebus.o
+                0x0000887c                sys_messagebus_unregister_all
+ .text.send_events
+                0x00008884       0x24 messagebus.o
+                0x00008884                send_events
+ .text.mod_init
+                0x000088a8       0x1a modinit.o
+                0x000088a8                mod_init
+ .text.handle_events
+                0x000088c2       0x62 openchronos.o
+                0x000088c2                handle_events
+ .text.init_application
+                0x00008924       0x66 openchronos.o
+                0x00008924                init_application
+ .text.startup.main
+                0x0000898a       0x3a openchronos.o
+                0x0000898a                main
+ .text.helpers_loop
+                0x000089c4       0x62 openchronos.o
+                0x000089c4                helpers_loop
+ .text.adc12_single_conversion
+                0x00008a26       0x8c drivers/adc12.o
+                0x00008a26                adc12_single_conversion
+ .text.ADC12ISR
+                0x00008ab2       0x20 drivers/adc12.o
+                0x00008ab2                ADC12ISR
+ .text.battery_init
+                0x00008ad2        0x8 drivers/battery.o
+                0x00008ad2                battery_init
+ .text.battery_measurement
+                0x00008ada       0x46 drivers/battery.o
+                0x00008ada                battery_measurement
+ .text.buzzer_play_callback
+                0x00008b20       0x7c drivers/buzzer.o
+ .text.is_buzzer_playing
+                0x00008b9c       0x12 drivers/buzzer.o
+                0x00008b9c                is_buzzer_playing
+ .text.buzzer_play
+                0x00008bae       0x16 drivers/buzzer.o
+                0x00008bae                buzzer_play
+ .text.buzzer_init
+                0x00008bc4       0x16 drivers/buzzer.o
+                0x00008bc4                buzzer_init
+ .text.write_lcd_mem
+                0x00008bda       0x42 drivers/display.o
+ .text.lcd_screens_create
+                0x00008c1c       0x74 drivers/display.o
+                0x00008c1c                lcd_screens_create
+ .text.get_active_lcd_screen_nr
+                0x00008c90        0x6 drivers/display.o
+                0x00008c90                get_active_lcd_screen_nr
+ .text.lcd_screen_activate
+                0x00008c96       0xd8 drivers/display.o
+                0x00008c96                lcd_screen_activate
+ .text.lcd_screens_destroy
+                0x00008d6e       0x50 drivers/display.o
+                0x00008d6e                lcd_screens_destroy
+ .text.fill_display
+                0x00008dbe       0x32 drivers/display.o
+                0x00008dbe                fill_display
+ .text._sprintf
+                0x00008df0      0x130 drivers/display.o
+                0x00008df0                _sprintf
+ .text._itopct  0x00008f20       0x7a drivers/display.o
+                0x00008f20                _itopct
+ .text.display_symbol
+                0x00008f9a       0x54 drivers/display.o
+                0x00008f9a                display_symbol
+ .text.display_bits
+                0x00008fee       0x70 drivers/display.o
+                0x00008fee                display_bits
+ .text.display_char
+                0x0000905e       0x54 drivers/display.o
+                0x0000905e                display_char
+ .text.display_chars
+                0x000090b2       0x52 drivers/display.o
+                0x000090b2                display_chars
+ .text.display_clear
+                0x00009104       0x7e drivers/display.o
+                0x00009104                display_clear
+ .text.enter_lpm_gie
+                0x00009182       0x1a drivers/lpm.o
+                0x00009182                enter_lpm_gie
+ .text.SetVCoreUp
+                0x0000919c       0x4a drivers/pmm.o
+                0x0000919c                SetVCoreUp
+ .text.SetVCoreDown
+                0x000091e6       0x2a drivers/pmm.o
+                0x000091e6                SetVCoreDown
+ .text.SetVCore
+                0x00009210       0x36 drivers/pmm.o
+                0x00009210                SetVCore
+ .text.init_buttons
+                0x00009246       0x26 drivers/ports.o
+                0x00009246                init_buttons
+ .text.is_ports_button_pressed
+                0x0000926c       0x12 drivers/ports.o
+                0x0000926c                is_ports_button_pressed
+ .text.ports_button_pressed
+                0x0000927e       0x34 drivers/ports.o
+                0x0000927e                ports_button_pressed
+ .text.ports_buttons_clear
+                0x000092b2        0xa drivers/ports.o
+                0x000092b2                ports_buttons_clear
+ .text.ports_buttons_poll
+                0x000092bc       0x76 drivers/ports.o
+                0x000092bc                ports_buttons_poll
+ .text.PORT2_ISR
+                0x00009332       0x2c drivers/ports.o
+                0x00009332                PORT2_ISR
+ .text.radio_reset
+                0x0000935e       0x38 drivers/radio.o
+                0x0000935e                radio_reset
+ .text.radio_powerdown
+                0x00009396       0x16 drivers/radio.o
+                0x00009396                radio_powerdown
+ .text.radio_ISR
+                0x000093ac       0x10 drivers/radio.o
+                0x000093ac                radio_ISR
+ .text.ReadSingleReg
+                0x000093bc       0x18 drivers/rf1a.o
+                0x000093bc                ReadSingleReg
+ .text.WriteSingleReg
+                0x000093d4       0x3a drivers/rf1a.o
+                0x000093d4                WriteSingleReg
+ .text.Strobe   0x0000940e       0x9c drivers/rf1a.o
+                0x0000940e                Strobe
+ .text.rtca_init
+                0x000094aa       0x76 drivers/rtca.o
+                0x000094aa                rtca_init
+ .text.rtca_get_max_days
+                0x00009520       0x70 drivers/rtca.o
+                0x00009520                rtca_get_max_days
+ .text.rtca_set_time
+                0x00009590       0x24 drivers/rtca.o
+                0x00009590                rtca_set_time
+ .text.rtca_get_alarm
+                0x000095b4       0x1a drivers/rtca.o
+                0x000095b4                rtca_get_alarm
+ .text.rtca_set_alarm
+                0x000095ce       0x2c drivers/rtca.o
+                0x000095ce                rtca_set_alarm
+ .text.rtca_enable_alarm
+                0x000095fa       0x1a drivers/rtca.o
+                0x000095fa                rtca_enable_alarm
+ .text.rtca_disable_alarm
+                0x00009614       0x14 drivers/rtca.o
+                0x00009614                rtca_disable_alarm
+ .text.rtca_update_dow
+                0x00009628       0xb2 drivers/rtca.o
+                0x00009628                rtca_update_dow
+ .text.rtca_set_date
+                0x000096da       0x4a drivers/rtca.o
+                0x000096da                rtca_set_date
+ .text.RTC_A_ISR
+                0x00009724       0xa2 drivers/rtca.o
+                0x00009724                RTC_A_ISR
+ .text.rtc_dst_hourly_update
+                0x000097c6       0x46 drivers/rtc_dst.o
+                0x000097c6                rtc_dst_hourly_update
+ .text.rtc_dst_isDateInDST
+                0x0000980c       0xd0 drivers/rtc_dst.o
+                0x0000980c                rtc_dst_isDateInDST
+ .text.rtc_dst_day_of_week
+                0x000098dc       0xf4 drivers/rtc_dst.o
+                0x000098dc                rtc_dst_day_of_week
+ .text.rtc_dst_calculate_dates
+                0x000099d0       0x66 drivers/rtc_dst.o
+                0x000099d0                rtc_dst_calculate_dates
+ .text.rtc_dst_init
+                0x00009a36       0x1a drivers/rtc_dst.o
+                0x00009a36                rtc_dst_init
+ .text.temperature_init
+                0x00009a50       0x36 drivers/temperature.o
+                0x00009a50                temperature_init
+ .text.temperature_measurement
+                0x00009a86       0x54 drivers/temperature.o
+                0x00009a86                temperature_measurement
+ .text.temperature_get_C
+                0x00009ada       0x76 drivers/temperature.o
+                0x00009ada                temperature_get_C
+ .text.temperature_get_F
+                0x00009b50       0x64 drivers/temperature.o
+                0x00009b50                temperature_get_F
+ .text.timer0_init
+                0x00009bb4       0x12 drivers/timer.o
+                0x00009bb4                timer0_init
+ .text.start_timer0_20hz
+                0x00009bc6       0x26 drivers/timer.o
+                0x00009bc6                start_timer0_20hz
+ .text.stop_timer0_20hz
+                0x00009bec       0x1a drivers/timer.o
+                0x00009bec                stop_timer0_20hz
+ .text.timer0_delay
+                0x00009c06       0x48 drivers/timer.o
+                0x00009c06                timer0_delay
+ .text.timer0_delay_callback_destroy
+                0x00009c4e       0x10 drivers/timer.o
+                0x00009c4e                timer0_delay_callback_destroy
+ .text.timer0_delay_callback
+                0x00009c5e       0x38 drivers/timer.o
+                0x00009c5e                timer0_delay_callback
+ .text.timer0_A0_ISR
+                0x00009c96       0x20 drivers/timer.o
+                0x00009c96                timer0_A0_ISR
+ .text.timer0_A1_ISR
+                0x00009cb6       0x4c drivers/timer.o
+                0x00009cb6                timer0_A1_ISR
+ .text.as_disconnect
+                0x00009d02       0x2a drivers/vti_as.o
+                0x00009d02                as_disconnect
+ .text.ps_twi_sda
+                0x00009d2c       0x9c drivers/vti_ps.o
+                0x00009d2c                ps_twi_sda
+ .text.ps_twi_write
+                0x00009dc8       0x48 drivers/vti_ps.o
+                0x00009dc8                ps_twi_write
+ .text.ps_twi_read
+                0x00009e10       0x58 drivers/vti_ps.o
+                0x00009e10                ps_twi_read
+ .text.ps_write_register
+                0x00009e68       0x60 drivers/vti_ps.o
+                0x00009e68                ps_write_register
+ .text.ps_read_register
+                0x00009ec8       0x76 drivers/vti_ps.o
+                0x00009ec8                ps_read_register
+ .text.ps_init  0x00009f3e       0x74 drivers/vti_ps.o
+                0x00009f3e                ps_init
+ .text.wdt_setup
+                0x00009fb2        0x8 drivers/wdt.o
+                0x00009fb2                wdt_setup
+ .text.wdt_stop
+                0x00009fba        0x8 drivers/wdt.o
+                0x00009fba                wdt_stop
+ .text.wdt_poll
+                0x00009fc2       0x12 drivers/wdt.o
+                0x00009fc2                wdt_poll
+ .text.alarm_deactivated
+                0x00009fd4        0xa modules/alarm.o
+ .text.print_hh
+                0x00009fde       0x86 modules/alarm.o
+ .text.print_mm
+                0x0000a064       0x1e modules/alarm.o
+ .text.alarm_activated
+                0x0000a082       0x22 modules/alarm.o
+ .text.edit_mm_dsel
+                0x0000a0a4       0x10 modules/alarm.o
+ .text.edit_mm_sel
+                0x0000a0b4       0x10 modules/alarm.o
+ .text.edit_hh_dsel
+                0x0000a0c4       0x10 modules/alarm.o
+ .text.edit_hh_sel
+                0x0000a0d4       0x10 modules/alarm.o
+ .text.star_long_pressed
+                0x0000a0e4       0x1c modules/alarm.o
+ .text.edit_mm_set
+                0x0000a100       0x18 modules/alarm.o
+ .text.edit_hh_set
+                0x0000a118       0x18 modules/alarm.o
+ .text.edit_save
+                0x0000a130        0xe modules/alarm.o
+ .text.num_pressed
+                0x0000a13e       0xa6 modules/alarm.o
+ .text.hour_event
+                0x0000a1e4        0xe modules/alarm.o
+ .text.alarm_event
+                0x0000a1f2       0x44 modules/alarm.o
+ .text.mod_alarm_init
+                0x0000a236       0x34 modules/alarm.o
+                0x0000a236                mod_alarm_init
+ .text.battery_deactivate
+                0x0000a26a       0x3c modules/battery.o
+ .text.display_battery
+                0x0000a2a6       0x54 modules/battery.o
+ .text.battery_event
+                0x0000a2fa        0x6 modules/battery.o
+ .text.battery_activate
+                0x0000a300       0x38 modules/battery.o
+ .text.mod_battery_init
+                0x0000a338       0x30 modules/battery.o
+                0x0000a338                mod_battery_init
+ .text.clock_deactivated
+                0x0000a368       0x38 modules/clock.o
+ .text.edit_12_24_display
+                0x0000a3a0       0x20 modules/clock.o
+ .text.edit_12_24_dsel
+                0x0000a3c0       0x10 modules/clock.o
+ .text.edit_dd_dsel
+                0x0000a3d0       0x10 modules/clock.o
+ .text.edit_mo_dsel
+                0x0000a3e0       0x10 modules/clock.o
+ .text.edit_yy_dsel
+                0x0000a3f0       0x10 modules/clock.o
+ .text.edit_mm_dsel
+                0x0000a400       0x10 modules/clock.o
+ .text.edit_hh_dsel
+                0x0000a410       0x10 modules/clock.o
+ .text.clock_event
+                0x0000a420      0x1ae modules/clock.o
+ .text.update_screen
+                0x0000a5ce        0xa modules/clock.o
+ .text.edit_12_24_set
+                0x0000a5d8        0xe modules/clock.o
+ .text.up_down_pressed
+                0x0000a5e6       0x12 modules/clock.o
+ .text.clock_activated
+                0x0000a5f8       0x26 modules/clock.o
+ .text.edit_12_24_sel
+                0x0000a61e       0x1a modules/clock.o
+ .text.edit_dd_sel
+                0x0000a638       0x16 modules/clock.o
+ .text.edit_mo_sel
+                0x0000a64e       0x16 modules/clock.o
+ .text.edit_yy_sel
+                0x0000a664       0x16 modules/clock.o
+ .text.edit_mm_sel
+                0x0000a67a       0x16 modules/clock.o
+ .text.edit_hh_sel
+                0x0000a690       0x16 modules/clock.o
+ .text.auto_adjust_dd
+                0x0000a6a6       0x24 modules/clock.o
+ .text.edit_mm_set
+                0x0000a6ca       0x1c modules/clock.o
+ .text.edit_hh_set
+                0x0000a6e6       0x1c modules/clock.o
+ .text.edit_dd_set
+                0x0000a702       0x36 modules/clock.o
+ .text.edit_mo_set
+                0x0000a738       0x28 modules/clock.o
+ .text.edit_yy_set
+                0x0000a760       0x2c modules/clock.o
+ .text.num_pressed
+                0x0000a78c       0x18 modules/clock.o
+ .text.star_long_pressed
+                0x0000a7a4       0x52 modules/clock.o
+ .text.edit_end
+                0x0000a7f6       0x56 modules/clock.o
+ .text.edit_cancel
+                0x0000a84c       0x1a modules/clock.o
+ .text.edit_save
+                0x0000a866       0x4c modules/clock.o
+ .text.mod_clock_init
+                0x0000a8b2       0x36 modules/clock.o
+                0x0000a8b2                mod_clock_init
+ .text.num_press
+                0x0000a8e8        0x8 modules/reset.o
+ .text.reset_deactivate
+                0x0000a8f0        0xa modules/reset.o
+ .text.reset_activate
+                0x0000a8fa       0x12 modules/reset.o
+ .text.mod_reset_init
+                0x0000a90c       0x32 modules/reset.o
+                0x0000a90c                mod_reset_init
+ .text.clear_stopwatch
+                0x0000a93e       0x24 modules/stopwatch.o
+ .text.increment_lap_stopwatch
+                0x0000a962       0x2a modules/stopwatch.o
+ .text.stopwatch_deactivated
+                0x0000a98c       0x44 modules/stopwatch.o
+ .text.drawStopWatchScreen
+                0x0000a9d0      0x144 modules/stopwatch.o
+ .text.stopwatch_activated
+                0x0000ab14       0x2c modules/stopwatch.o
+ .text.num_long_pressed
+                0x0000ab40       0x12 modules/stopwatch.o
+ .text.stopwatch_event
+                0x0000ab52       0x6e modules/stopwatch.o
+ .text.down_press
+                0x0000abc0       0x3e modules/stopwatch.o
+ .text.up_press
+                0x0000abfe       0x3e modules/stopwatch.o
+ .text.num_press
+                0x0000ac3c       0x5e modules/stopwatch.o
+ .text.mod_stopwatch_init
+                0x0000ac9a       0x42 modules/stopwatch.o
+                0x0000ac9a                mod_stopwatch_init
+ .text.display_temp_text_on_line_2
+                0x0000acdc       0x14 modules/temperature.o
+ .text.update_c_or_f_display
+                0x0000acf0       0x22 modules/temperature.o
+ .text.temperature_deactivate
+                0x0000ad12       0x26 modules/temperature.o
+ .text.display_temperature
+                0x0000ad38       0x5a modules/temperature.o
+ .text.event_1_sec_callback
+                0x0000ad92       0x20 modules/temperature.o
+ .text.edit_c_or_f_set
+                0x0000adb2        0xe modules/temperature.o
+ .text.temperature_activate
+                0x0000adc0       0x40 modules/temperature.o
+ .text.temperature_edit
+                0x0000ae00       0x10 modules/temperature.o
+ .text.edit_c_or_f_dsel
+                0x0000ae10       0x18 modules/temperature.o
+ .text.edit_c_or_f_sel
+                0x0000ae28       0x1c modules/temperature.o
+ .text.edit_offset_dsel
+                0x0000ae44       0x18 modules/temperature.o
+ .text.update_offset_display
+                0x0000ae5c       0x1e modules/temperature.o
+                0x0000ae5c                update_offset_display
+ .text.edit_offset_set
+                0x0000ae7a       0x14 modules/temperature.o
+ .text.edit_offset_sel
+                0x0000ae8e       0x1c modules/temperature.o
+ .text.mod_temperature_init
+                0x0000aeaa       0x32 modules/temperature.o
+                0x0000aeaa                mod_temperature_init
+ .text.udivmodhi4
+                0x0000aedc       0x3c /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divHI.o)
+                0x0000aedc                udivmodhi4
+ .text.__divhi3
+                0x0000af18       0x46 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divHI.o)
+                0x0000af18                __mspabi_divi
+ .text.__modhi3
+                0x0000af5e       0x30 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divHI.o)
+                0x0000af5e                __mspabi_remi
+ .text.__udivhi3
+                0x0000af8e        0x8 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divHI.o)
+                0x0000af8e                __mspabi_divu
+ .text.__umodhi3
+                0x0000af96        0x8 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divHI.o)
+                0x0000af96                __mspabi_remu
+ .text.udivmodsi4
+                0x0000af9e       0x7e /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divSI.o)
+                0x0000af9e                udivmodsi4
+ .text.__udivsi3
+                0x0000b01c        0xe /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divSI.o)
+                0x0000b01c                __mspabi_divlu
+ .text.__umodsi3
+                0x0000b02a        0xe /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divSI.o)
+                0x0000b02a                __mspabi_remul
+ .text.__mulhi3
+                0x0000b038       0x26 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2mul.o)
+                0x0000b038                __mspabi_mpyi
+ .text          0x0000b05e       0x74 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(slli.o)
+                0x0000b05e                __mspabi_slli_15
+                0x0000b060                __mspabi_slli_14
+                0x0000b062                __mspabi_slli_13
+                0x0000b064                __mspabi_slli_12
+                0x0000b066                __mspabi_slli_11
+                0x0000b068                __mspabi_slli_10
+                0x0000b06a                __mspabi_slli_9
+                0x0000b06c                __mspabi_slli_8
+                0x0000b06e                __mspabi_slli_7
+                0x0000b070                __mspabi_slli_6
+                0x0000b072                __mspabi_slli_5
+                0x0000b074                __mspabi_slli_4
+                0x0000b076                __mspabi_slli_3
+                0x0000b078                __mspabi_slli_2
+                0x0000b07a                __mspabi_slli_1
+                0x0000b082                __mspabi_slli
+                0x0000b088                __mspabi_slll_15
+                0x0000b08c                __mspabi_slll_14
+                0x0000b090                __mspabi_slll_13
+                0x0000b094                __mspabi_slll_12
+                0x0000b098                __mspabi_slll_11
+                0x0000b09c                __mspabi_slll_10
+                0x0000b0a0                __mspabi_slll_9
+                0x0000b0a4                __mspabi_slll_8
+                0x0000b0a8                __mspabi_slll_7
+                0x0000b0ac                __mspabi_slll_6
+                0x0000b0b0                __mspabi_slll_5
+                0x0000b0b4                __mspabi_slll_4
+                0x0000b0b8                __mspabi_slll_3
+                0x0000b0bc                __mspabi_slll_2
+                0x0000b0c0                __mspabi_slll_1
+                0x0000b0cc                __mspabi_slll
+ .text          0x0000b0d2       0x74 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(srai.o)
+                0x0000b0d2                __mspabi_srai_15
+                0x0000b0d4                __mspabi_srai_14
+                0x0000b0d6                __mspabi_srai_13
+                0x0000b0d8                __mspabi_srai_12
+                0x0000b0da                __mspabi_srai_11
+                0x0000b0dc                __mspabi_srai_10
+                0x0000b0de                __mspabi_srai_9
+                0x0000b0e0                __mspabi_srai_8
+                0x0000b0e2                __mspabi_srai_7
+                0x0000b0e4                __mspabi_srai_6
+                0x0000b0e6                __mspabi_srai_5
+                0x0000b0e8                __mspabi_srai_4
+                0x0000b0ea                __mspabi_srai_3
+                0x0000b0ec                __mspabi_srai_2
+                0x0000b0ee                __mspabi_srai_1
+                0x0000b0f6                __mspabi_srai
+                0x0000b0fc                __mspabi_sral_15
+                0x0000b100                __mspabi_sral_14
+                0x0000b104                __mspabi_sral_13
+                0x0000b108                __mspabi_sral_12
+                0x0000b10c                __mspabi_sral_11
+                0x0000b110                __mspabi_sral_10
+                0x0000b114                __mspabi_sral_9
+                0x0000b118                __mspabi_sral_8
+                0x0000b11c                __mspabi_sral_7
+                0x0000b120                __mspabi_sral_6
+                0x0000b124                __mspabi_sral_5
+                0x0000b128                __mspabi_sral_4
+                0x0000b12c                __mspabi_sral_3
+                0x0000b130                __mspabi_sral_2
+                0x0000b134                __mspabi_sral_1
+                0x0000b140                __mspabi_sral
+ .text          0x0000b146       0xb4 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(srli.o)
+                0x0000b146                __mspabi_srli_15
+                0x0000b14a                __mspabi_srli_14
+                0x0000b14e                __mspabi_srli_13
+                0x0000b152                __mspabi_srli_12
+                0x0000b156                __mspabi_srli_11
+                0x0000b15a                __mspabi_srli_10
+                0x0000b15e                __mspabi_srli_9
+                0x0000b162                __mspabi_srli_8
+                0x0000b166                __mspabi_srli_7
+                0x0000b16a                __mspabi_srli_6
+                0x0000b16e                __mspabi_srli_5
+                0x0000b172                __mspabi_srli_4
+                0x0000b176                __mspabi_srli_3
+                0x0000b17a                __mspabi_srli_2
+                0x0000b17e                __mspabi_srli_1
+                0x0000b18a                __mspabi_srli
+                0x0000b190                __mspabi_srll_15
+                0x0000b196                __mspabi_srll_14
+                0x0000b19c                __mspabi_srll_13
+                0x0000b1a2                __mspabi_srll_12
+                0x0000b1a8                __mspabi_srll_11
+                0x0000b1ae                __mspabi_srll_10
+                0x0000b1b4                __mspabi_srll_9
+                0x0000b1ba                __mspabi_srll_8
+                0x0000b1c0                __mspabi_srll_7
+                0x0000b1c6                __mspabi_srll_6
+                0x0000b1cc                __mspabi_srll_5
+                0x0000b1d2                __mspabi_srll_4
+                0x0000b1d8                __mspabi_srll_3
+                0x0000b1de                __mspabi_srll_2
+                0x0000b1e4                __mspabi_srll_1
+                0x0000b1f4                __mspabi_srll
+ .text.malloc   0x0000b1fa        0xc /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-malloc.o)
+                0x0000b1fa                malloc
+ .text.free     0x0000b206        0xc /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-malloc.o)
+                0x0000b206                free
+ .text.memcpy   0x0000b212       0x1c /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memcpy.o)
+                0x0000b212                memcpy
+ .text.memset   0x0000b22e       0x12 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memset.o)
+                0x0000b22e                memset
+ .text._free_r  0x0000b240       0xea /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-freer.o)
+                0x0000b240                _free_r
+ .text._malloc_r
+                0x0000b32a       0xec /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-mallocr.o)
+                0x0000b32a                _malloc_r
+ .text._sbrk_r  0x0000b416       0x22 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-sbrkr.o)
+                0x0000b416                _sbrk_r
+ .text          0x0000b438       0x30 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(sbrk.o)
+                0x0000b438                _sbrk
+                0x0000b438                sbrk
+ .text          0x0000b468       0x72 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(write.o)
+                0x0000b468                write
+ .text          0x0000b4da        0x4 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(cio.o)
+                0x0000b4da                C$$IO$$
+                0x0000b4da                _libgloss_cio_hook
+ .text.abort    0x0000b4de        0xe /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-abort.o)
+                0x0000b4de                abort
+ .text.memmove  0x0000b4ec       0x40 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memmove.o)
+                0x0000b4ec                memmove
+ .text._raise_r
+                0x0000b52c       0x62 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+                0x0000b52c                _raise_r
+ .text.raise    0x0000b58e        0xc /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+                0x0000b58e                raise
+ .text._kill_r  0x0000b59a       0x24 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signalr.o)
+                0x0000b59a                _kill_r
+ .text._getpid_r
+                0x0000b5be        0x6 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signalr.o)
+                0x0000b5be                _getpid_r
+ .text          0x0000b5c4       0x60 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(nosyscalls.o)
+                0x0000b5c4                exit
+                0x0000b5c4                _exit
+                0x0000b5c6                open
+                0x0000b5d4                close
+                0x0000b5e2                read
+                0x0000b5f0                fstat
+                0x0000b5fe                lseek
+                0x0000b60c                kill
+                0x0000b61a                isatty
+                0x0000b61a                _isatty
+                0x0000b61e                getpid
+ .text.__errno  0x0000b624        0x6 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-errno.o)
+                0x0000b624                __errno
+ .text          0x0000b62a       0x20 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/crtend.o
+ *(.text.*personality*)
+ *(.gnu.warning)
+ *(.interp .hash .dynsym .dynstr .gnu.version*)
+                0x0000b64a                PROVIDE (__etext, .)
+                0x0000b64a                PROVIDE (_etext, .)
+                0x0000b64a                PROVIDE (etext, .)
+                0x0000b64a                . = ALIGN (0x2)
+ *(.init)
+ .init          0x0000b64a        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/crt0.o
+                0x0000b64a                __msp430_init
+ .init          0x0000b64a        0x4 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/crtbegin.o
+ .init          0x0000b64e        0x4 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/crtend.o
+ .init          0x0000b652        0xa /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/crtn.o
+                0x0000b65c                __msp430_init_end
+ *(.fini)
+ .fini          0x0000b65c        0x4 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/crt0.o
+                0x0000b65c                __msp430_fini
+ .fini          0x0000b660        0x4 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/crtbegin.o
+ .fini          0x0000b664        0x2 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/crtn.o
+                0x0000b666                __msp430_fini_end
+ *(.tm_clone_table)
+ .tm_clone_table
+                0x0000b666        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/crtbegin.o
+ .tm_clone_table
+                0x0000b666        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/crtend.o
+                0x0000b666                __TMC_END__
+
+.data           0x00001c00      0x14a load address 0x0000b666
+                0x00001c00                . = ALIGN (0x2)
+                0x00001c00                PROVIDE (__datastart, .)
+ *(.jcr)
+ .jcr           0x00001c00        0x0 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/crtbegin.o
+ .jcr           0x00001c00        0x2 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/crtend.o
+ *(.data.rel.ro.local)
+ *(.data.rel.ro*)
+ *(.dynamic)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.base_notes
+                0x00001c02       0x1a drivers/buzzer.o
+                0x00001c02                base_notes
+ .data.welcome  0x00001c1c        0x8 drivers/buzzer.o
+                0x00001c1c                welcome
+ .data.silent_until_release
+                0x00001c24        0x1 drivers/ports.o
+ .data.display_am_pm
+                0x00001c25        0x1 drivers/rtca.o
+                0x00001c25                display_am_pm
+ .data.edit_items
+                0x00001c26       0x12 modules/alarm.o
+ .data.alarm_notes
+                0x00001c38        0x8 modules/alarm.o
+ .data.chime_notes
+                0x00001c40        0x4 modules/alarm.o
+ .data.edit_items
+                0x00001c44       0x2a modules/clock.o
+ .data.datetime
+                0x00001c6e        0x2 modules/clock.o
+ .data.edit_items
+                0x00001c70       0x12 modules/temperature.o
+ .data._impure_ptr
+                0x00001c82        0x2 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-impure.o)
+                0x00001c82                _impure_ptr
+ .data.impure_data
+                0x00001c84       0x78 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-impure.o)
+ .data          0x00001cfc        0x2 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(sbrk.o)
+ .data          0x00001cfe       0x4b /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(cio.o)
+                0x00001cfe                __CIOBUF__
+                0x00001cfe                _CIOBUF_
+ *(.gnu.linkonce.d.*personality*)
+ *(.data1)
+ *(.got.plt)
+ *(.got)
+                0x00001d4a                . = ALIGN (0x2)
+ *fill*         0x00001d49        0x1 
+ *(.sdata .sdata.* .gnu.linkonce.s.* D_2 D_1)
+                0x00001d4a                . = ALIGN (0x2)
+                0x00001d4a                _edata = .
+                0x00001d4a                PROVIDE (edata, .)
+                0x00001d4a                PROVIDE (__dataend, .)
+                0x0000b666                PROVIDE (__romdatastart, LOADADDR (.data))
+                0x0000014a                PROVIDE (__romdatacopysize, SIZEOF (.data))
+
+.bss            0x00001d4a       0xb6 load address 0x0000b7b0
+                0x00001d4a                . = ALIGN (0x2)
+                0x00001d4a                PROVIDE (__bssstart, .)
+ *(.dynbss)
+ *(.sbss .sbss.*)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x00001d4a       0x12 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/crtbegin.o
+ .bss.menu_editmode
+                0x00001d5c        0xa menu.o
+ .bss.menumode  0x00001d66        0x8 menu.o
+ .bss.menu_head
+                0x00001d6e        0x2 menu.o
+ .bss.messagebus
+                0x00001d70        0x2 messagebus.o
+ .bss.notes     0x00001d72        0x2 drivers/buzzer.o
+ .bss.display_activescr
+                0x00001d74        0x1 drivers/display.o
+ .bss.display_nrscreens
+                0x00001d75        0x1 drivers/display.o
+ .bss.display_screens
+                0x00001d76        0x2 drivers/display.o
+ .bss.sprintf_str
+                0x00001d78        0x8 drivers/display.o
+ .bss.last_state.2711
+                0x00001d80        0x1 drivers/ports.o
+ *fill*         0x00001d81        0x1 
+ .bss.last_press
+                0x00001d82        0x2 drivers/ports.o
+ .bss.timer_20Hz_started
+                0x00001d84        0x1 drivers/ports.o
+ .bss.adcresult_idx
+                0x00001d85        0x1 drivers/temperature.o
+ .bss.adcresult
+                0x00001d86        0x4 drivers/temperature.o
+ .bss.timer0_20hz_ticks
+                0x00001d8a        0x2 drivers/timer.o
+ .bss.ref_count_20hz
+                0x00001d8c        0x1 drivers/timer.o
+ *fill*         0x00001d8d        0x1 
+ .bss.delay_callback
+                0x00001d8e        0x2 drivers/timer.o
+ .bss.timer0_prog_ticks
+                0x00001d90        0x2 drivers/timer.o
+ .bss.delay_finished
+                0x00001d92        0x1 drivers/timer.o
+ .bss.alarm_sec_elapsed
+                0x00001d93        0x1 modules/alarm.o
+ .bss.tmp_mm    0x00001d94        0x1 modules/alarm.o
+ .bss.tmp_hh    0x00001d95        0x1 modules/alarm.o
+ .bss.alarm_state
+                0x00001d96        0x1 modules/alarm.o
+ .bss.display_seconds
+                0x00001d97        0x1 modules/clock.o
+ .bss.menu_entry
+                0x00001d98        0x2 modules/stopwatch.o
+ .bss.icon_stopwatch_off_cents
+                0x00001d9a        0x1 modules/stopwatch.o
+ .bss.icon_stopwatch_on_cents
+                0x00001d9b        0x1 modules/stopwatch.o
+ .bss.sec       0x00001d9c        0x1 modules/temperature.o
+ .bss.use_temperature_metric
+                0x00001d9d        0x1 modules/temperature.o
+                0x00001d9d                use_temperature_metric
+ .bss.__malloc_sbrk_start
+                0x00001d9e        0x2 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-mallocr.o)
+                0x00001d9e                __malloc_sbrk_start
+ .bss.__malloc_free_list
+                0x00001da0        0x2 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-mallocr.o)
+                0x00001da0                __malloc_free_list
+                0x00001da2                . = ALIGN (0x2)
+ *(COMMON)
+ COMMON         0x00001da2       0x1a openchronos.o
+                0x00001da2                temperature
+                0x00001da6                battery_info
+                0x00001daa                rtca_time
+                0x00001db6                timer0_last_event
+                0x00001db8                timer0_20hz_counter
+                0x00001dba                as_last_interrupt
+                0x00001dbb                rtca_last_event
+ COMMON         0x00001dbc        0x4 drivers/adc12.o
+                0x00001dbc                adc12_data_ready
+                0x00001dbe                adc12_result
+ COMMON         0x00001dc0        0x4 drivers/ports.o
+                0x00001dc0                ports_down_btns
+                0x00001dc2                ports_pressed_btns
+ COMMON         0x00001dc4        0x5 drivers/rtc_dst.o
+                0x00001dc4                rtc_dst_dates
+                0x00001dc8                rtc_dst_state
+ COMMON         0x00001dc9        0x1 drivers/vti_ps.o
+                0x00001dc9                ps_ok
+ COMMON         0x00001dca       0x33 modules/stopwatch.o
+                0x00001dca                sSwatch_conf
+                0x00001dcd                sSwatch_time
+ *fill*         0x00001dfd        0x1 
+ COMMON         0x00001dfe        0x2 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-reent.o)
+                0x00001dfe                errno
+                0x00001e00                PROVIDE (__bssend, .)
+                0x000000b6                PROVIDE (__bsssize, SIZEOF (.bss))
+
+.noinit         0x00001e00        0x0 load address 0x0000b7b0
+                0x00001e00                . = ALIGN (0x2)
+                0x00001e00                PROVIDE (__noinit_start, .)
+ *(.noinit)
+                0x00001e00                . = ALIGN (0x2)
+                0x00001e00                PROVIDE (__noinit_end, .)
+                0x00001e00                end = .
+
+.stack          0x00002bfe        0x0
+                0x00002bfe                PROVIDE (__stack, .)
+ *(.stack)
+
+.infoA
+
+.infoB
+
+.infoC
+
+.infoD
+
+.MP430.attributes
+                0x00000000      0x730
+ *(.MSP430.attributes)
+ .MSP430.attributes
+                0x00000000       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/crt0.o
+ .MSP430.attributes
+                0x00000017       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/crtbegin.o
+ .MSP430.attributes
+                0x0000002e       0x17 boot.o
+ .MSP430.attributes
+                0x00000045       0x17 menu.o
+ .MSP430.attributes
+                0x0000005c       0x17 messagebus.o
+ .MSP430.attributes
+                0x00000073       0x17 modinit.o
+ .MSP430.attributes
+                0x0000008a       0x17 openchronos.o
+ .MSP430.attributes
+                0x000000a1       0x17 drivers/adc12.o
+ .MSP430.attributes
+                0x000000b8       0x17 drivers/battery.o
+ .MSP430.attributes
+                0x000000cf       0x17 drivers/buzzer.o
+ .MSP430.attributes
+                0x000000e6       0x17 drivers/display.o
+ .MSP430.attributes
+                0x000000fd       0x17 drivers/dsp.o
+ .MSP430.attributes
+                0x00000114       0x17 drivers/infomem.o
+ .MSP430.attributes
+                0x0000012b       0x17 drivers/lpm.o
+ .MSP430.attributes
+                0x00000142       0x17 drivers/pmm.o
+ .MSP430.attributes
+                0x00000159       0x17 drivers/ports.o
+ .MSP430.attributes
+                0x00000170       0x17 drivers/radio.o
+ .MSP430.attributes
+                0x00000187       0x17 drivers/rf1a.o
+ .MSP430.attributes
+                0x0000019e       0x17 drivers/rtca.o
+ .MSP430.attributes
+                0x000001b5       0x17 drivers/rtc_dst.o
+ .MSP430.attributes
+                0x000001cc       0x17 drivers/temperature.o
+ .MSP430.attributes
+                0x000001e3       0x17 drivers/timer.o
+ .MSP430.attributes
+                0x000001fa       0x17 drivers/vti_as.o
+ .MSP430.attributes
+                0x00000211       0x17 drivers/vti_ps.o
+ .MSP430.attributes
+                0x00000228       0x17 drivers/wdt.o
+ .MSP430.attributes
+                0x0000023f       0x17 modules/accelerometer.o
+ .MSP430.attributes
+                0x00000256       0x17 modules/alarm.o
+ .MSP430.attributes
+                0x0000026d       0x17 modules/battery.o
+ .MSP430.attributes
+                0x00000284       0x17 modules/buzztest.o
+ .MSP430.attributes
+                0x0000029b       0x17 modules/clock.o
+ .MSP430.attributes
+                0x000002b2       0x17 modules/hashutils.o
+ .MSP430.attributes
+                0x000002c9       0x17 modules/music.o
+ .MSP430.attributes
+                0x000002e0       0x17 modules/otp.o
+ .MSP430.attributes
+                0x000002f7       0x17 modules/reset.o
+ .MSP430.attributes
+                0x0000030e       0x17 modules/stopwatch.o
+ .MSP430.attributes
+                0x00000325       0x17 modules/temperature.o
+ .MSP430.attributes
+                0x0000033c       0x17 modules/tide.o
+ .MSP430.attributes
+                0x00000353       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fixunsdfsi.o)
+ .MSP430.attributes
+                0x0000036a       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_addsub_df.o)
+ .MSP430.attributes
+                0x00000381       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_mul_df.o)
+ .MSP430.attributes
+                0x00000398       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ge_df.o)
+ .MSP430.attributes
+                0x000003af       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_df_to_si.o)
+ .MSP430.attributes
+                0x000003c6       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_thenan_df.o)
+ .MSP430.attributes
+                0x000003dd       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_usi_to_df.o)
+ .MSP430.attributes
+                0x000003f4       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divHI.o)
+ .MSP430.attributes
+                0x0000040b       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divSI.o)
+ .MSP430.attributes
+                0x00000422       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2mul.o)
+ .MSP430.attributes
+                0x00000439       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(slli.o)
+ .MSP430.attributes
+                0x00000450       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(srai.o)
+ .MSP430.attributes
+                0x00000467       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(srli.o)
+ .MSP430.attributes
+                0x0000047e       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_muldi3.o)
+ .MSP430.attributes
+                0x00000495       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_lshrdi3.o)
+ .MSP430.attributes
+                0x000004ac       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ashldi3.o)
+ .MSP430.attributes
+                0x000004c3       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clzsi2.o)
+ .MSP430.attributes
+                0x000004da       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_pack_df.o)
+ .MSP430.attributes
+                0x000004f1       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_unpack_df.o)
+ .MSP430.attributes
+                0x00000508       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fpcmp_parts_df.o)
+ .MSP430.attributes
+                0x0000051f       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clz.o)
+ .MSP430.attributes
+                0x00000536       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-malloc.o)
+ .MSP430.attributes
+                0x0000054d       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memcpy.o)
+ .MSP430.attributes
+                0x00000564       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memset.o)
+ .MSP430.attributes
+                0x0000057b       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-freer.o)
+ .MSP430.attributes
+                0x00000592       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-mallocr.o)
+ .MSP430.attributes
+                0x000005a9       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-sbrkr.o)
+ .MSP430.attributes
+                0x000005c0       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-impure.o)
+ .MSP430.attributes
+                0x000005d7       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-reent.o)
+ .MSP430.attributes
+                0x000005ee       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_bss.o)
+ .MSP430.attributes
+                0x00000605       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_movedata.o)
+ .MSP430.attributes
+                0x0000061c       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libcrt.a(crt_main.o)
+ .MSP430.attributes
+                0x00000633       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(sbrk.o)
+ .MSP430.attributes
+                0x0000064a       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(write.o)
+ .MSP430.attributes
+                0x00000661       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(cio.o)
+ .MSP430.attributes
+                0x00000678       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-abort.o)
+ .MSP430.attributes
+                0x0000068f       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memmove.o)
+ .MSP430.attributes
+                0x000006a6       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+ .MSP430.attributes
+                0x000006bd       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signalr.o)
+ .MSP430.attributes
+                0x000006d4       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(nosyscalls.o)
+ .MSP430.attributes
+                0x000006eb       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-errno.o)
+ .MSP430.attributes
+                0x00000702       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/crtend.o
+ .MSP430.attributes
+                0x00000719       0x17 /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/crtn.o
+ *(.gnu.attributes)
+ *(__TI_build_attributes)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x7c
+ *(.comment)
+ .comment       0x00000000       0x7c /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/crtbegin.o
+                                 0x7d (size before relaxing)
+ .comment       0x00000000       0x7d boot.o
+ .comment       0x00000000       0x7d menu.o
+ .comment       0x00000000       0x7d messagebus.o
+ .comment       0x00000000       0x7d modinit.o
+ .comment       0x00000000       0x7d openchronos.o
+ .comment       0x00000000       0x7d drivers/adc12.o
+ .comment       0x00000000       0x7d drivers/battery.o
+ .comment       0x00000000       0x7d drivers/buzzer.o
+ .comment       0x00000000       0x7d drivers/display.o
+ .comment       0x00000000       0x7d drivers/dsp.o
+ .comment       0x00000000       0x7d drivers/infomem.o
+ .comment       0x00000000       0x7d drivers/lpm.o
+ .comment       0x00000000       0x7d drivers/pmm.o
+ .comment       0x00000000       0x7d drivers/ports.o
+ .comment       0x00000000       0x7d drivers/radio.o
+ .comment       0x00000000       0x7d drivers/rf1a.o
+ .comment       0x00000000       0x7d drivers/rtca.o
+ .comment       0x00000000       0x7d drivers/rtc_dst.o
+ .comment       0x00000000       0x7d drivers/temperature.o
+ .comment       0x00000000       0x7d drivers/timer.o
+ .comment       0x00000000       0x7d drivers/vti_as.o
+ .comment       0x00000000       0x7d drivers/vti_ps.o
+ .comment       0x00000000       0x7d drivers/wdt.o
+ .comment       0x00000000       0x7d modules/accelerometer.o
+ .comment       0x00000000       0x7d modules/alarm.o
+ .comment       0x00000000       0x7d modules/battery.o
+ .comment       0x00000000       0x7d modules/buzztest.o
+ .comment       0x00000000       0x7d modules/clock.o
+ .comment       0x00000000       0x7d modules/hashutils.o
+ .comment       0x00000000       0x7d modules/music.o
+ .comment       0x00000000       0x7d modules/otp.o
+ .comment       0x00000000       0x7d modules/reset.o
+ .comment       0x00000000       0x7d modules/stopwatch.o
+ .comment       0x00000000       0x7d modules/temperature.o
+ .comment       0x00000000       0x7d modules/tide.o
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fixunsdfsi.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_addsub_df.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_mul_df.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ge_df.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_df_to_si.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_thenan_df.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_usi_to_df.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divHI.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2divSI.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(lib2mul.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_muldi3.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_lshrdi3.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_ashldi3.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clzsi2.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_pack_df.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_unpack_df.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_fpcmp_parts_df.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a(_clz.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-malloc.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memcpy.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memset.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-freer.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-nano-mallocr.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-sbrkr.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-impure.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-reent.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(sbrk.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libnosys.a(write.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-abort.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-memmove.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signal.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-signalr.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/libc.a(lib_a-errno.o)
+ .comment       0x00000000       0x7d /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/crtend.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+/DISCARD/
+ *(.note.GNU-stack)
+LOAD /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a
+LOAD /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/crtend.o
+LOAD /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/../../../../msp430-elf/lib/crtn.o
+LOAD /projects/Toolchain/gcc/bin/../lib/gcc/msp430-elf/4.9.1/libgcc.a
+OUTPUT(openchronos.elf elf32-msp430)
+
+.debug_ranges
+
+.debug_line_end
+
+.debug_line.text.udivmodhi4
+
+.debug_line.text.__divhi3
+
+.debug_line.text.__modhi3
+
+.debug_line.text.__udivhi3
+
+.debug_line.text.__umodhi3
+
+.debug_line.text.udivmodsi4
+
+.debug_line.text.__udivsi3
+
+.debug_line.text.__umodsi3
+
+.debug_line.text.__mulhi3
+
+.debug_line.text.malloc
+
+.debug_line.text.free
+
+.debug_line.text.memcpy
+
+.debug_line.text.memset
+
+.debug_line.text._free_r
+
+.debug_line.text._malloc_r
+
+.debug_line.text._sbrk_r
+
+.debug_line.text.abort
+
+.debug_line.text.memmove
+
+.debug_line.text._raise_r
+
+.debug_line.text.raise
+
+.debug_line.text._kill_r
+
+.debug_line.text._getpid_r
+
+.debug_line.text.__errno
